@@ -1,5 +1,6 @@
 ---
 ---
+
 @import "minima";
 
 /* =============================================
@@ -10,7 +11,6 @@
 $accent-gold:   #c9a84c;
 $accent-gold-bright: #e4c85a;
 $accent-purple: #1f0f3a;
-$accent-blue:   #0c1930;
 $bg-dark:       #0a0a0f;
 $bg-card:       #111118;
 $bg-code:       #14141e;
@@ -150,10 +150,7 @@ html, body {
 }
 
 /* 文章列表（首页） */
-.post-list {
-  list-style: none;
-  padding: 0;
-}
+.post-list { list-style: none; padding: 0; }
 .post-list > li {
   margin-bottom: 30px;
   padding-bottom: 16px;
@@ -213,10 +210,7 @@ table td {
 table tr:nth-child(even) { background: rgba($accent-purple, 0.04); }
 
 /* 高亮选中色 */
-::selection {
-  background: rgba($accent-gold, 0.2);
-  color: #f0f0e8;
-}
+::selection { background: rgba($accent-gold, 0.2); color: #f0f0e8; }
 
 /* 暗色滚动条 */
 ::-webkit-scrollbar { width: 8px; height: 8px; }
@@ -225,11 +219,7 @@ table tr:nth-child(even) { background: rgba($accent-purple, 0.04); }
 ::-webkit-scrollbar-thumb:hover { background: rgba($accent-gold, 0.3); }
 
 /* 首页装饰 */
-.home .post-list-heading {
-  color: #f0f0e8;
-  letter-spacing: 0.04em;
-  font-weight: 600;
-}
+.home .post-list-heading { color: #f0f0e8; letter-spacing: 0.04em; font-weight: 600; }
 
 /* Wrapper */
 .wrapper { max-width: 800px; }
