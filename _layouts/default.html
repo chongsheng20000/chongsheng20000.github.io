@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title }} · {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{{ site.description | strip_html | strip_newlines | truncate: 160 }}">
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+  <link rel="icon" href="{{ "/favicon.ico" | relative_url }}" type="image/svg+xml">
+  <meta name="theme-color" content="#08080c">
+</head>
+<body>
+
+  <!-- 导航栏 -->
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="site-brand" href="{{ "/" | relative_url }}">重生二十五万年</a>
+      <button class="menu-toggle" id="menuToggle" aria-label="菜单">☰</button>
+      <nav class="site-nav" id="siteNav">
+        <a href="{{ "/" | relative_url }}"{% if page.layout == "home" %} class="active"{% endif %}>首页</a>
+        <a href="{{ "/archive/" | relative_url }}"{% if page.layout == "archive" %} class="active"{% endif %}>文章</a>
+        <a href="{{ "/about/" | relative_url }}"{% if page.layout == "page" and page.permalink == "/about/" %} class="active"{% endif %}>关于</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- 主内容 -->
+  <main class="main-wrap">
+    {{ content }}
+  </main>
+
+  <!-- 页脚 -->
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <span class="footer-name">重生二十五万年</span>
+      <span class="footer-tagline">调律之器，鸣与不鸣之间。</span>
+    </div>
+  </footer>
+
+  <!-- 移动端菜单脚本 -->
+  <script>
+    document.getElementById('menuToggle')?.addEventListener('click', function() {
+      document.getElementById('siteNav')?.classList.toggle('open');
+    });
+  </script>
+</body>
+</html>
