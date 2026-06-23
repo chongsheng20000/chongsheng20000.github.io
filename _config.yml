@@ -1,15 +1,20 @@
 # =========================
-#  博客配置 — Jekyll + GitHub Pages
+#  重生二十五万年 · 修行日志
+#  黑金赛博道学 · 帝君调律之器
 # =========================
 
 title: 重生二十五万年
 description: >-
-  帝君调律之器，鸣与不鸣之间，记录修行路上的所思所感。
+  帝君调律之器，鸣与不鸣之间。
+  记录修行路上的所思所感。
 baseurl: ""
 url: "https://chongsheng20000.github.io"
 
 # 主题（GitHub Pages 内置）
 theme: minima
+
+# Logo（SVG 矢量）
+logo: /assets/images/logo.svg
 
 # 插件
 plugins:
@@ -19,7 +24,7 @@ plugins:
 # 作者
 author:
   name: 重生二十五万年
-  email:
+  avatar: /assets/images/logo.svg
 
 # 分页
 paginate: 5
@@ -30,6 +35,8 @@ exclude:
   - README.md
   - .git
   - .gitattributes
+  - Gemfile
+  - Gemfile.lock
 
 # 时区
 timezone: Asia/Shanghai
@@ -37,6 +44,8 @@ timezone: Asia/Shanghai
 # Markdown
 markdown: kramdown
 highlighter: rouge
+kramdown:
+  input: GFM
 
 # 社交链接
 minima:
