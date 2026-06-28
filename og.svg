@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#071013"/>
+  <path d="M80 80h1040v470H80z" fill="none" stroke="#7dd3d8" stroke-opacity=".55" stroke-width="2"/>
+  <circle cx="945" cy="260" r="118" fill="#7dd3d8" fill-opacity=".12"/>
+  <circle cx="945" cy="260" r="86" fill="#f0d6ff" fill-opacity=".14"/>
+  <text x="120" y="250" fill="#eef8f7" font-family="Georgia, serif" font-size="92">重生两万年</text>
+  <text x="120" y="338" fill="#b9f3f2" font-family="Georgia, serif" font-size="36">文章、随笔、读书和一些长期整理</text>
+  <text x="120" y="420" fill="#9fb6b8" font-family="Arial, sans-serif" font-size="24">Personal Blog · Essays · Reading · Projects</text>
+</svg>

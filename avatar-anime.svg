@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-label="重生两万年头像">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#d8fbff"/>
+      <stop offset="0.5" stop-color="#b7d7ff"/>
+      <stop offset="1" stop-color="#f0d6ff"/>
+    </linearGradient>
+    <linearGradient id="hair" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#26374b"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+  </defs>
+  <rect width="320" height="320" rx="160" fill="url(#bg)"/>
+  <circle cx="160" cy="168" r="96" fill="#f8d8c8"/>
+  <path d="M76 148c14-68 68-96 118-78 35 13 58 45 56 88-28-34-67-32-96-30-30 2-58 0-78 20z" fill="url(#hair)"/>
+  <path d="M91 143c18-56 64-81 104-65-35 8-54 31-72 67z" fill="#34445f"/>
+  <path d="M86 166c-18 2-28 28-9 42 14 10 29 0 30-17zM234 166c18 2 28 28 9 42-14 10-29 0-30-17z" fill="#f1c2b1"/>
+  <ellipse cx="126" cy="171" rx="13" ry="19" fill="#24364d"/>
+  <ellipse cx="194" cy="171" rx="13" ry="19" fill="#24364d"/>
+  <circle cx="121" cy="164" r="4" fill="#effcff"/>
+  <circle cx="189" cy="164" r="4" fill="#effcff"/>
+  <path d="M146 200c10 8 22 8 32 0" fill="none" stroke="#b46b76" stroke-width="5" stroke-linecap="round"/>
+  <path d="M102 130c32 12 84 11 117-4" fill="none" stroke="#111827" stroke-width="16" stroke-linecap="round"/>
+  <path d="M94 244c22 31 111 31 133 0 19 15 32 39 36 76H57c4-37 18-61 37-76z" fill="#2b6f7f"/>
+  <path d="M108 253c28 19 76 19 104 0" fill="none" stroke="#9de4ef" stroke-width="7" stroke-linecap="round"/>
+</svg>
