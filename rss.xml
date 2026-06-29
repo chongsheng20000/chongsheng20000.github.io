@@ -1,170 +1,198 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>重生两万年</title>
+    <title>重生两万年 RSS</title>
     <link>https://chongsheng20000.github.io</link>
+    <atom:link href="https://chongsheng20000.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <description>重生两万年的个人博客，记录文章、阅读和长期项目。</description>
     <language>zh-en</language>
+    <lastBuildDate>Tue, 02 Jun 2026 00:00:00 GMT</lastBuildDate>
     <item>
       <title>Why I Understand AI Governance as a Closure Problem</title>
       <link>https://chongsheng20000.github.io/en/blog/tacl-11-ai-governance-as-closure-problem</link>
-      <guid>https://chongsheng20000.github.io/en/blog/tacl-11-ai-governance-as-closure-problem</guid>
+      <guid isPermaLink="true">https://chongsheng20000.github.io/en/blog/tacl-11-ai-governance-as-closure-problem</guid>
       <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
       <description>I have become less willing to describe AI governance mainly as a problem of principles.</description>
-    </item><item>
+    </item>
+    <item>
       <title>为什么我把 AI 治理理解为“闭合问题”</title>
       <link>https://chongsheng20000.github.io/zh/blog/tacl-11-ai-governance-as-closure-problem</link>
-      <guid>https://chongsheng20000.github.io/zh/blog/tacl-11-ai-governance-as-closure-problem</guid>
+      <guid isPermaLink="true">https://chongsheng20000.github.io/zh/blog/tacl-11-ai-governance-as-closure-problem</guid>
       <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
       <description>我现在越来越不愿意把 AI 治理理解成一个单纯的原则问题。</description>
-    </item><item>
+    </item>
+    <item>
       <title>What It Would Take to Implement T-ACL</title>
       <link>https://chongsheng20000.github.io/en/blog/tacl-10-deploying-tacl</link>
-      <guid>https://chongsheng20000.github.io/en/blog/tacl-10-deploying-tacl</guid>
+      <guid isPermaLink="true">https://chongsheng20000.github.io/en/blog/tacl-10-deploying-tacl</guid>
       <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
       <description>If T-ACL stays inside a paper, it looks like a formal system.</description>
-    </item><item>
+    </item>
+    <item>
       <title>如果真的部署 T-ACL，需要什么</title>
       <link>https://chongsheng20000.github.io/zh/blog/tacl-10-deploying-tacl</link>
-      <guid>https://chongsheng20000.github.io/zh/blog/tacl-10-deploying-tacl</guid>
+      <guid isPermaLink="true">https://chongsheng20000.github.io/zh/blog/tacl-10-deploying-tacl</guid>
       <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
       <description>T-ACL 如果停留在论文里，它看起来像一个形式系统。</description>
-    </item><item>
+    </item>
+    <item>
       <title>Small Claims, Clear Edges</title>
       <link>https://chongsheng20000.github.io/en/blog/research-method-small-claims</link>
-      <guid>https://chongsheng20000.github.io/en/blog/research-method-small-claims</guid>
+      <guid isPermaLink="true">https://chongsheng20000.github.io/en/blog/research-method-small-claims</guid>
       <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
       <description>A writing note on making an argument narrow enough to inspect.</description>
-    </item><item>
+    </item>
+    <item>
       <title>How T-ACL Differs from Existing AI Governance Frameworks</title>
       <link>https://chongsheng20000.github.io/en/blog/tacl-09-tacl-differences</link>
-      <guid>https://chongsheng20000.github.io/en/blog/tacl-09-tacl-differences</guid>
+      <guid isPermaLink="true">https://chongsheng20000.github.io/en/blog/tacl-09-tacl-differences</guid>
       <pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
       <description>I do not want to present T-ACL as a replacement for everything that already exists.</description>
-    </item><item>
+    </item>
+    <item>
       <title>T-ACL 和现有 AI 治理框架到底差在哪</title>
       <link>https://chongsheng20000.github.io/zh/blog/tacl-09-tacl-differences</link>
-      <guid>https://chongsheng20000.github.io/zh/blog/tacl-09-tacl-differences</guid>
+      <guid isPermaLink="true">https://chongsheng20000.github.io/zh/blog/tacl-09-tacl-differences</guid>
       <pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
       <description>我最不想把 T-ACL 写成一种“替代品”。</description>
-    </item><item>
+    </item>
+    <item>
       <title>Revision Without Drama</title>
       <link>https://chongsheng20000.github.io/en/blog/philosophy-of-revision</link>
-      <guid>https://chongsheng20000.github.io/en/blog/philosophy-of-revision</guid>
+      <guid isPermaLink="true">https://chongsheng20000.github.io/en/blog/philosophy-of-revision</guid>
       <pubDate>Sun, 22 Mar 2026 00:00:00 GMT</pubDate>
       <description>A note on keeping old versions visible without treating them as monuments.</description>
-    </item><item>
+    </item>
+    <item>
       <title>What T-ACL Is Not: Misunderstandings About Closure in AI Governance</title>
       <link>https://chongsheng20000.github.io/en/blog/tacl-08-what-tacl-is-not</link>
-      <guid>https://chongsheng20000.github.io/en/blog/tacl-08-what-tacl-is-not</guid>
+      <guid isPermaLink="true">https://chongsheng20000.github.io/en/blog/tacl-08-what-tacl-is-not</guid>
       <pubDate>Sat, 21 Mar 2026 00:00:00 GMT</pubDate>
       <description>When a new framework is proposed, the first thing readers usually do is not understand it. They classify it.</description>
-    </item><item>
+    </item>
+    <item>
       <title>T-ACL 不是什么：关于 AI 治理闭合框架的几个误解</title>
       <link>https://chongsheng20000.github.io/zh/blog/tacl-08-what-tacl-is-not</link>
-      <guid>https://chongsheng20000.github.io/zh/blog/tacl-08-what-tacl-is-not</guid>
+      <guid isPermaLink="true">https://chongsheng20000.github.io/zh/blog/tacl-08-what-tacl-is-not</guid>
       <pubDate>Sat, 21 Mar 2026 00:00:00 GMT</pubDate>
       <description>提出一个新框架，最容易发生的事不是被理解，而是被归类。</description>
-    </item><item>
+    </item>
+    <item>
       <title>写作先把话说清</title>
       <link>https://chongsheng20000.github.io/zh/blog/research-writing-calibration</link>
-      <guid>https://chongsheng20000.github.io/zh/blog/research-writing-calibration</guid>
+      <guid isPermaLink="true">https://chongsheng20000.github.io/zh/blog/research-writing-calibration</guid>
       <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
       <description>写作不是把句子写漂亮，而是先知道自己到底在说什么。</description>
-    </item><item>
+    </item>
+    <item>
       <title>AI Governance Does Not Just Need More Audits. It Needs a Way to Decide When a Case Is Closed.</title>
       <link>https://chongsheng20000.github.io/en/blog/tacl-07-when-can-ai-governance-conclude</link>
-      <guid>https://chongsheng20000.github.io/en/blog/tacl-07-when-can-ai-governance-conclude</guid>
+      <guid isPermaLink="true">https://chongsheng20000.github.io/en/blog/tacl-07-when-can-ai-governance-conclude</guid>
       <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
       <description>AI governance is no longer short on documents.</description>
-    </item><item>
+    </item>
+    <item>
       <title>AI 治理真正缺的不是审计报告，而是“什么时候可以下结论”</title>
       <link>https://chongsheng20000.github.io/zh/blog/tacl-07-when-can-ai-governance-conclude</link>
-      <guid>https://chongsheng20000.github.io/zh/blog/tacl-07-when-can-ai-governance-conclude</guid>
+      <guid isPermaLink="true">https://chongsheng20000.github.io/zh/blog/tacl-07-when-can-ai-governance-conclude</guid>
       <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
       <description>AI 治理现在不缺文件。</description>
-    </item><item>
+    </item>
+    <item>
       <title>短句、长信和一个人的网页</title>
       <link>https://chongsheng20000.github.io/zh/blog/social-theory-noise</link>
-      <guid>https://chongsheng20000.github.io/zh/blog/social-theory-noise</guid>
+      <guid isPermaLink="true">https://chongsheng20000.github.io/zh/blog/social-theory-noise</guid>
       <pubDate>Wed, 18 Feb 2026 00:00:00 GMT</pubDate>
       <description>关于个人博客为什么仍然值得保留。</description>
-    </item><item>
+    </item>
+    <item>
       <title>What Does &quot;Risk Under Control&quot; Actually Mean?</title>
       <link>https://chongsheng20000.github.io/en/blog/tacl-06-risk-under-control-status-language</link>
-      <guid>https://chongsheng20000.github.io/en/blog/tacl-06-risk-under-control-status-language</guid>
+      <guid isPermaLink="true">https://chongsheng20000.github.io/en/blog/tacl-06-risk-under-control-status-language</guid>
       <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
       <description>I have seen one phrase in too many governance documents: the risks are generally under control.</description>
-    </item><item>
+    </item>
+    <item>
       <title>“风险可控”到底是什么意思？AI 治理需要一种状态语言</title>
       <link>https://chongsheng20000.github.io/zh/blog/tacl-06-risk-under-control-status-language</link>
-      <guid>https://chongsheng20000.github.io/zh/blog/tacl-06-risk-under-control-status-language</guid>
+      <guid isPermaLink="true">https://chongsheng20000.github.io/zh/blog/tacl-06-risk-under-control-status-language</guid>
       <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
       <description>我在很多治理文件里都见过一句话：风险总体可控。</description>
-    </item><item>
+    </item>
+    <item>
       <title>A Tool Is Never Just a Tool</title>
       <link>https://chongsheng20000.github.io/en/blog/tool-is-never-just-a-tool</link>
-      <guid>https://chongsheng20000.github.io/en/blog/tool-is-never-just-a-tool</guid>
+      <guid isPermaLink="true">https://chongsheng20000.github.io/en/blog/tool-is-never-just-a-tool</guid>
       <pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
       <description>Notes on release choices, habits, and the quiet politics of software.</description>
-    </item><item>
+    </item>
+    <item>
       <title>Not Every &quot;Failure&quot; Means the Same Thing</title>
       <link>https://chongsheng20000.github.io/en/blog/tacl-05-not-all-failures</link>
-      <guid>https://chongsheng20000.github.io/en/blog/tacl-05-not-all-failures</guid>
+      <guid isPermaLink="true">https://chongsheng20000.github.io/en/blog/tacl-05-not-all-failures</guid>
       <pubDate>Wed, 14 Jan 2026 00:00:00 GMT</pubDate>
       <description>There is a word in AI governance that does too much work: failure.</description>
-    </item><item>
+    </item>
+    <item>
       <title>不是所有“不通过”都一样</title>
       <link>https://chongsheng20000.github.io/zh/blog/tacl-05-not-all-failures</link>
-      <guid>https://chongsheng20000.github.io/zh/blog/tacl-05-not-all-failures</guid>
+      <guid isPermaLink="true">https://chongsheng20000.github.io/zh/blog/tacl-05-not-all-failures</guid>
       <pubDate>Wed, 14 Jan 2026 00:00:00 GMT</pubDate>
       <description>我觉得 AI 治理里有一个词用得太粗：“不通过”。</description>
-    </item><item>
+    </item>
+    <item>
       <title>Accuracy Is Not the Last Question</title>
       <link>https://chongsheng20000.github.io/en/blog/tacl-04-accuracy-not-final-question</link>
-      <guid>https://chongsheng20000.github.io/en/blog/tacl-04-accuracy-not-final-question</guid>
+      <guid isPermaLink="true">https://chongsheng20000.github.io/en/blog/tacl-04-accuracy-not-final-question</guid>
       <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
       <description>I have become increasingly suspicious of the question that often sounds the most reasonable in AI governance: how accurate is the model?</description>
-    </item><item>
+    </item>
+    <item>
       <title>模型准不准，不是最后的问题</title>
       <link>https://chongsheng20000.github.io/zh/blog/tacl-04-accuracy-not-final-question</link>
-      <guid>https://chongsheng20000.github.io/zh/blog/tacl-04-accuracy-not-final-question</guid>
+      <guid isPermaLink="true">https://chongsheng20000.github.io/zh/blog/tacl-04-accuracy-not-final-question</guid>
       <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
       <description>我现在越来越怀疑，AI 治理里最容易误导人的问题，恰恰是那个听起来最正常的问题：模型准不准？</description>
-    </item><item>
+    </item>
+    <item>
       <title>The Three Governance Failures: Premature Acceptance, Premature Rejection, and Indefinite Delay</title>
       <link>https://chongsheng20000.github.io/en/blog/tacl-03-three-governance-failures</link>
-      <guid>https://chongsheng20000.github.io/en/blog/tacl-03-three-governance-failures</guid>
+      <guid isPermaLink="true">https://chongsheng20000.github.io/en/blog/tacl-03-three-governance-failures</guid>
       <pubDate>Thu, 27 Nov 2025 00:00:00 GMT</pubDate>
       <description>AI governance discussions often focus on model errors.</description>
-    </item><item>
+    </item>
+    <item>
       <title>AI 系统治理中最危险的三种错误：过早通过、过早拒绝、无限拖延</title>
       <link>https://chongsheng20000.github.io/zh/blog/tacl-03-three-governance-failures</link>
-      <guid>https://chongsheng20000.github.io/zh/blog/tacl-03-three-governance-failures</guid>
+      <guid isPermaLink="true">https://chongsheng20000.github.io/zh/blog/tacl-03-three-governance-failures</guid>
       <pubDate>Thu, 27 Nov 2025 00:00:00 GMT</pubDate>
       <description>AI 治理讨论里，人们很容易把注意力放在模型错误上。</description>
-    </item><item>
+    </item>
+    <item>
       <title>AI Audits Are Growing. But Who Decides When They Are Enough?</title>
       <link>https://chongsheng20000.github.io/en/blog/tacl-02-ai-audit-enough</link>
-      <guid>https://chongsheng20000.github.io/en/blog/tacl-02-ai-audit-enough</guid>
+      <guid isPermaLink="true">https://chongsheng20000.github.io/en/blog/tacl-02-ai-audit-enough</guid>
       <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
       <description>The AI governance conversation can no longer be reduced to the claim that systems are not being audited.</description>
-    </item><item>
+    </item>
+    <item>
       <title>AI 审计报告越来越多，但谁来决定“够不够”？</title>
       <link>https://chongsheng20000.github.io/zh/blog/tacl-02-ai-audit-enough</link>
-      <guid>https://chongsheng20000.github.io/zh/blog/tacl-02-ai-audit-enough</guid>
+      <guid isPermaLink="true">https://chongsheng20000.github.io/zh/blog/tacl-02-ai-audit-enough</guid>
       <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
       <description>现在，谈 AI 治理已经不能只说“没有审计”。</description>
-    </item><item>
+    </item>
+    <item>
       <title>Why I Care About Closure in AI Governance</title>
       <link>https://chongsheng20000.github.io/en/blog/tacl-01-decision-closure</link>
-      <guid>https://chongsheng20000.github.io/en/blog/tacl-01-decision-closure</guid>
+      <guid isPermaLink="true">https://chongsheng20000.github.io/en/blog/tacl-01-decision-closure</guid>
       <pubDate>Sun, 12 Oct 2025 00:00:00 GMT</pubDate>
       <description>AI governance discussions often revolve around familiar terms: transparency, fairness, explainability, accountability, auditing, compliance, and risk manag</description>
-    </item><item>
+    </item>
+    <item>
       <title>我为什么关注 AI 治理中的“决策闭合”问题</title>
       <link>https://chongsheng20000.github.io/zh/blog/tacl-01-decision-closure</link>
-      <guid>https://chongsheng20000.github.io/zh/blog/tacl-01-decision-closure</guid>
+      <guid isPermaLink="true">https://chongsheng20000.github.io/zh/blog/tacl-01-decision-closure</guid>
       <pubDate>Sun, 12 Oct 2025 00:00:00 GMT</pubDate>
       <description>AI 治理讨论里，我们经常听到几个熟悉的词：透明度、公平性、可解释性、问责、审计、合规、风险管理。</description>
     </item>
