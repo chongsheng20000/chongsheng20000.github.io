@@ -1,26 +1,27 @@
 1:"$Sreact.fragment"
-2:I[79520,["/_next/static/chunks/12nv79r2w_xqq.js","/_next/static/chunks/14mrh2-p_w84d.js"],""]
-3:I[45678,["/_next/static/chunks/12nv79r2w_xqq.js","/_next/static/chunks/14mrh2-p_w84d.js"],"Navbar"]
-4:I[39756,["/_next/static/chunks/12nv79r2w_xqq.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
-5:I[37457,["/_next/static/chunks/12nv79r2w_xqq.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
-6:I[22016,["/_next/static/chunks/12nv79r2w_xqq.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/1fsad2bvtfpye.js","/_next/static/chunks/1d1e6svl7_lqj.js"],""]
-7:I[13642,["/_next/static/chunks/12nv79r2w_xqq.js","/_next/static/chunks/14mrh2-p_w84d.js"],"Footer"]
-8:I[64785,["/_next/static/chunks/12nv79r2w_xqq.js","/_next/static/chunks/14mrh2-p_w84d.js"],"HistoryBack"]
-9:I[90715,["/_next/static/chunks/12nv79r2w_xqq.js","/_next/static/chunks/14mrh2-p_w84d.js"],"BackToTop"]
-a:I[62438,["/_next/static/chunks/12nv79r2w_xqq.js","/_next/static/chunks/14mrh2-p_w84d.js"],"CustomCursor"]
-b:I[93153,["/_next/static/chunks/12nv79r2w_xqq.js","/_next/static/chunks/14mrh2-p_w84d.js"],"PwaRegister"]
-e:I[97367,["/_next/static/chunks/12nv79r2w_xqq.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
-f:"$Sreact.suspense"
-12:I[97367,["/_next/static/chunks/12nv79r2w_xqq.js","/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
-14:I[97367,["/_next/static/chunks/12nv79r2w_xqq.js","/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
-16:I[68027,["/_next/static/chunks/12nv79r2w_xqq.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
-:HL["/_next/static/chunks/3awlqy9h0pnyp.css","style"]
+2:I[79520,["/_next/static/chunks/2wru34nb__67c.js","/_next/static/chunks/14mrh2-p_w84d.js"],""]
+3:I[45678,["/_next/static/chunks/2wru34nb__67c.js","/_next/static/chunks/14mrh2-p_w84d.js"],"Navbar"]
+4:I[39756,["/_next/static/chunks/2wru34nb__67c.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+5:I[37457,["/_next/static/chunks/2wru34nb__67c.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+6:I[22016,["/_next/static/chunks/2wru34nb__67c.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/1fsad2bvtfpye.js","/_next/static/chunks/2dabub5lipd88.js"],""]
+7:I[13642,["/_next/static/chunks/2wru34nb__67c.js","/_next/static/chunks/14mrh2-p_w84d.js"],"Footer"]
+8:I[76902,["/_next/static/chunks/2wru34nb__67c.js","/_next/static/chunks/14mrh2-p_w84d.js"],"RouteTransition"]
+9:I[64785,["/_next/static/chunks/2wru34nb__67c.js","/_next/static/chunks/14mrh2-p_w84d.js"],"HistoryBack"]
+a:I[90715,["/_next/static/chunks/2wru34nb__67c.js","/_next/static/chunks/14mrh2-p_w84d.js"],"BackToTop"]
+b:I[62438,["/_next/static/chunks/2wru34nb__67c.js","/_next/static/chunks/14mrh2-p_w84d.js"],"CustomCursor"]
+c:I[93153,["/_next/static/chunks/2wru34nb__67c.js","/_next/static/chunks/14mrh2-p_w84d.js"],"PwaRegister"]
+f:I[97367,["/_next/static/chunks/2wru34nb__67c.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+13:I[97367,["/_next/static/chunks/2wru34nb__67c.js","/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+15:I[97367,["/_next/static/chunks/2wru34nb__67c.js","/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+17:I[68027,["/_next/static/chunks/2wru34nb__67c.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
+:HL["/_next/static/chunks/0n3fc_mlz2b30.css","style"]
 :HC["/",""]
-0:{"P":null,"c":["","zh","blog","tacl-01-decision-closure"],"q":"","i":false,"f":[[["",{"children":[["locale","zh","d",null],{"children":["blog",{"children":[["slug","tacl-01-decision-closure","d",null],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3awlqy9h0pnyp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/12nv79r2w_xqq.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","suppressHydrationWarning":true,"children":["$","body",null,{"children":[["$","$L2",null,{"id":"theme-init","strategy":"beforeInteractive","children":"(() => {\n            const choice = localStorage.getItem(\"theme-choice\") || \"system\";\n            const dark = window.matchMedia(\"(prefers-color-scheme: dark)\").matches;\n            document.documentElement.dataset.themeChoice = choice;\n            document.documentElement.dataset.theme = choice === \"system\" ? (dark ? \"dark\" : \"light\") : choice;\n          })();"}],["$","$L3",null,{}],["$","main",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"mx-auto w-full max-w-6xl px-5 sm:px-6 lg:px-8 page-stack","children":["$","section",null,{"className":"not-found-card","children":[["$","p",null,{"className":"eyebrow","children":"404"}],["$","h1",null,{"children":"这页没找到。"}],["$","p",null,{"children":"可能是链接改过，也可能是文章还没写完。先回首页或搜索一下。"}],["$","div",null,{"className":"hero-actions","children":[["$","$L6",null,{"href":"/zh","className":"primary-action","children":"回到首页"}],["$","$L6",null,{"href":"/zh/search","className":"secondary-action","children":"搜索档案"}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L7",null,{}],["$","$L8",null,{}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}]]}]}]]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/1fsad2bvtfpye.js","async":true,"nonce":"$undefined"}]],"$Lc"]}],{"children":[["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$Ld",[["$","script","script-0",{"src":"/_next/static/chunks/1d1e6svl7_lqj.js","async":true,"nonce":"$undefined"}]],["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]]}],{},null,false,null]},null,false,"$@11"]},null,false,"$@11"]},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$L12",null,{"children":"$L13"}],["$","div",null,{"hidden":true,"children":["$","$L14",null,{"children":["$","$f",null,{"name":"Next.Metadata","children":"$L15"}]}]}],null]}],false]],"m":"$undefined","G":["$16",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3awlqy9h0pnyp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"VLMYs7jhNAa3KvRLWEApR"}
-17:[]
-11:"$W17"
-18:I[26009,["/_next/static/chunks/12nv79r2w_xqq.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/1fsad2bvtfpye.js"],"CommandPalette"]
-19:T1fde,我现在越来越不愿意把 AI 治理理解成一个单纯的原则问题。
+0:{"P":null,"c":["","zh","blog","tacl-01-decision-closure"],"q":"","i":false,"f":[[["",{"children":[["locale","zh","d",null],{"children":["blog",{"children":[["slug","tacl-01-decision-closure","d",null],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0n3fc_mlz2b30.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2wru34nb__67c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","suppressHydrationWarning":true,"children":["$","body",null,{"children":[["$","$L2",null,{"id":"theme-init","strategy":"beforeInteractive","children":"(() => {\n            const choice = localStorage.getItem(\"theme-choice\") || \"system\";\n            const dark = window.matchMedia(\"(prefers-color-scheme: dark)\").matches;\n            document.documentElement.dataset.themeChoice = choice;\n            document.documentElement.dataset.theme = choice === \"system\" ? (dark ? \"dark\" : \"light\") : choice;\n          })();"}],["$","$L3",null,{}],["$","main",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"mx-auto w-full max-w-6xl px-5 sm:px-6 lg:px-8 page-stack","children":["$","section",null,{"className":"not-found-card","children":[["$","p",null,{"className":"eyebrow","children":"404"}],["$","h1",null,{"children":"这页没找到。"}],["$","p",null,{"children":"可能是链接改过，也可能是文章还没写完。先回首页或搜索一下。"}],["$","div",null,{"className":"hero-actions","children":[["$","$L6",null,{"href":"/zh","className":"primary-action","children":"回到首页"}],["$","$L6",null,{"href":"/zh/search","className":"secondary-action","children":"搜索档案"}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L7",null,{}],["$","$L8",null,{}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}],["$","$Lc",null,{}]]}]}]]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/1fsad2bvtfpye.js","async":true,"nonce":"$undefined"}]],"$Ld"]}],{"children":[["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$Le",[["$","script","script-0",{"src":"/_next/static/chunks/2dabub5lipd88.js","async":true,"nonce":"$undefined"}]],["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}],{},null,false,null]},null,false,"$@12"]},null,false,"$@12"]},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$L13",null,{"children":"$L14"}],["$","div",null,{"hidden":true,"children":["$","$L15",null,{"children":["$","$10",null,{"name":"Next.Metadata","children":"$L16"}]}]}],null]}],false]],"m":"$undefined","G":["$17",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0n3fc_mlz2b30.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"NuHVwY3L3jsINDJVx1ozu"}
+18:[]
+12:"$W18"
+19:I[26009,["/_next/static/chunks/2wru34nb__67c.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/1fsad2bvtfpye.js"],"CommandPalette"]
+1a:T1fde,我现在越来越不愿意把 AI 治理理解成一个单纯的原则问题。
 
 原则当然重要。公平、透明、问责、可解释、可靠、安全、隐私、合法性，这些词不是空的。没有这些词，我们甚至很难描述 AI 系统可能带来的伤害。
 
@@ -142,7 +143,7 @@ C 的目的不是让机构更容易拖延，而是让拖延变得可见、可审
 
    三个案例给我的提醒
 
-iTutorGroup、MiDAS、SyRI 这三个案例，在我的文章里不是作为“证明 T-A1a:T1f76,T-ACL 如果停留在论文里，它看起来像一个形式系统。
+iTutorGroup、MiDAS、SyRI 这三个案例，在我的文章里不是作为“证明 T-A1b:T1f76,T-ACL 如果停留在论文里，它看起来像一个形式系统。
 
 有 T、F、C，有状态证书，有诊断 profile，有 ValidStop，有 Block，有有限阶段求值。读者看到这些词，很容易以为第一步应该是写一个 reasoner，或者做一个漂亮的 dashboard，把每个 AI 系统自动算成绿色、红色、黄色。
 
@@ -248,7 +249,7 @@ T-ACL 里的 C 不能这样实现。C 不是颜色，C 是工作项。
 
 它不要求现在就把系统判死刑，也不允许系统继续假装已经合格。它把未闭合问题变成机构必须处理的债务。
 
-实现上，C 的诊断 profile 应该比 T 和 F 更重。T 和 F 当然也要有证书，但 C 最容易拖延，所以 C 更需要 workflow 化。每个 C 都应该出现在一个活的列表里，定期审1b:T1e98,我最不想把 T-ACL 写成一种“替代品”。
+实现上，C 的诊断 profile 应该比 T 和 F 更重。T 和 F 当然也要有证书，但 C 最容易拖延，所以 C 更需要 workflow 化。每个 C 都应该出现在一个活的列表里，定期审1c:T1e98,我最不想把 T-ACL 写成一种“替代品”。
 
 这类写法很诱人。提出一个新框架时，很容易说现有方法都不够，只有自己的东西解决了关键问题。听起来有力，实际很不可信。AI 治理已经有很多认真工作的传统：模型卡、数据集说明、偏见审计、风险管理框架、保证案例、法律推理、论证框架、工作流系统、来源追踪、问责日志。它们不是装饰，也不是被 T-ACL 一句话淘汰的背景板。
 
@@ -346,7 +347,7 @@ GSN 的基本思想是把一个系统为什么可以被认为安全、可靠或�
 
 一种风险是论证树很漂亮，但未解决 defeater 被管理语言软化。文件看起来完整，图画得很清楚，最后却用一句“remaining issues to be monitored”把关键问题推走。
 
-另一种风险是任何 d1c:T1f30,提出一个新框架，最容易发生的事不是被理解，而是被归类。
+另一种风险是任何 d1d:T1f30,提出一个新框架，最容易发生的事不是被理解，而是被归类。
 
 读者会先把它放进一个已经熟悉的抽屉里：这是三值逻辑吧。这是合规清单吧。这是自动审批工具吧。这是不是想用形式系统替代法律判断？证书谁来发？C 会不会被机构拿来无限拖？ValidStop 会不会变成新的权力按钮？
 
@@ -450,7 +451,7 @@ T-ACL 不会自动证明证书真实。它只能说：如果证书缺失、冲�
 
 C 不是一个舒服状态。它不是“我们还在看”。它应该是一种带压力的状态：有责任人，有期限，有下一步，有申诉路径，有到期后的动作。
 
-这就是为什么我不喜欢把 C 翻译成“未定”。“未定”太轻。更准确的说法是纠正性非闭合。它1d:T1fae,AI 治理现在不缺文件。
+这就是为什么我不喜欢把 C 翻译成“未定”。“未定”太轻。更准确的说法是纠正性非闭合。它1e:T1fae,AI 治理现在不缺文件。
 
 一个严肃一点的 AI 项目，通常已经能拿出一整套材料：模型卡、数据集说明、性能报告、公平性测试、偏见审计、风险评估、法律意见、人工复核流程、申诉机制、供应商合规声明。公共部门还可能有影响评估、采购记录、监管回应、法院判决或议会听证材料。
 
@@ -562,7 +563,7 @@ T-ACL 真正的核心，不是三种状态，而是 certificate-controlled closu
 
 这条规则的治理含义很强。
 
-它意味着，一个供应商不能因为自己说“模型已通过公平性测试”，就让公平性主张进入接受状态。一个业务部门不能因为自己写了“人工复核可用”，就把程序正义问题关掉。一个法律备1e:T1fd9,我在很多治理文件里都见过一句话：风险总体可控。
+它意味着，一个供应商不能因为自己说“模型已通过公平性测试”，就让公平性主张进入接受状态。一个业务部门不能因为自己写了“人工复核可用”，就把程序正义问题关掉。一个法律备1f:T1fd9,我在很多治理文件里都见过一句话：风险总体可控。
 
 这句话很稳。也很危险。
 
@@ -663,7 +664,7 @@ T-ACL 真正的核心，不是三种状态，而是 certificate-controlled closu
 不是因为 AI 治理需要一个新缩写。
 
 而是因为“风险可控”这类话，已经不够用了。
-1f:T21d0,我觉得 AI 治理里有一个词用得太粗：“不通过”。
+20:T21d0,我觉得 AI 治理里有一个词用得太粗：“不通过”。
 
 一个系统有问题，于是“不通过”。一次审计发现风险，于是“不通过”。法律团队提出疑问，于是“不通过”。公平性指标没有完全达标，也是不通过。听起来很干脆，但这个词往往把几种性质完全不同的情况混在一起。
 
@@ -779,7 +780,7 @@ AI 治理中最常见的坏写法，不是完全没有判断，而是判断看�
 
 语言在治理里不是小事。
 
-很多 AI 风险不是20:T216e,我现在越来越怀疑，AI 治理里最容易误导人的问题，恰恰是那个听起来最正常的问题：模型准不准？
+很多 AI 风险不是21:T216e,我现在越来越怀疑，AI 治理里最容易误导人的问题，恰恰是那个听起来最正常的问题：模型准不准？
 
 这个问题当然要问。一个系统如果连基本准确性都没有，后面的治理讨论大多没有意义。但麻烦在于，很多高风险 AI 系统真正造成伤害时，并不是以“模型在某个测试集上表现不好”这种形式出现的。伤害往往发生在下一步：模型输出被某个机构接走，进入行政流程、福利流程、招聘流程、风控流程，最后变成一个人要解释自己、证明自己、申诉自己，甚至偿还一笔他认为自己不该偿还的钱。
 
@@ -853,7 +854,7 @@ MiDAS 式的问题提醒我们：通知、申诉、人工复核和补救机制�
 
 我从 MiDAS 和 SyRI 得到的结论很简单：讨论高风险 AI，不能只问模型准不准。更应该问，一个机构凭什么让这个模型进入人的生活，凭什么让它参与公共权力或重要机会的分配，凭什么在问题没有说清楚时继续运行。
 
-这不是反技术。恰恰相反，正因为这些系统会真的起作用，我们才不21:T20d0,AI 治理讨论里，人们很容易把注意力放在模型错误上。
+这不是反技术。恰恰相反，正因为这些系统会真的起作用，我们才不22:T20d0,AI 治理讨论里，人们很容易把注意力放在模型错误上。
 
 模型有没有偏差？
 
@@ -1115,7 +1116,7 @@ MiDAS 式的问题提醒我们：通知、申诉、人工复核和补救机制�
 
    七、三种失败背后的共同问题
 
-过早通过、22:T2018,现在，谈 AI 治理已经不能只说“没有审计”。
+过早通过、23:T2018,现在，谈 AI 治理已经不能只说“没有审计”。
 
 很多机构已经开始审计。很多系统已经有文档。很多公司会准备模型卡、数据说明、风险评估、偏见测试、法律意见、人工复核流程、申诉说明、供应商合规声明。
 
@@ -1402,7 +1403,7 @@ AI 治理当然需要审计报告。
 或者，为什么现在还不能下结论。
 
 以及，如果不能下结论，下一步必须发生什么。
-23:T1a6e,AI 治理讨论里，我们经常听到几个熟悉的词：透明度、公平性、可解释性、问责、审计、合规、风险管理。
+24:T1a6e,AI 治理讨论里，我们经常听到几个熟悉的词：透明度、公平性、可解释性、问责、审计、合规、风险管理。
 
 这些词都重要，但它们还没有触及我最关心的问题。
 
@@ -1567,56 +1568,56 @@ AI 治理不应该只追求更多文件。
 审计之后，谁有资格说这个问题已经结束？
 
 这就是我关注决策闭合的原因。
-c:[["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L18",null,{"items":[{"type":"post","slug":"tacl-11-ai-governance-as-closure-problem","url":"/zh/blog/tacl-11-ai-governance-as-closure-problem","title":"为什么我把 AI 治理理解为“闭合问题”","description":"我现在越来越不愿意把 AI 治理理解成一个单纯的原则问题。","tags":["决策闭合","研究札记","T-ACL","AI治理","制度设计"],"concepts":["AI Governance","Methodology"],"category":"技术治理","date":"2026-05-29","language":"zh","body":"$19"},{"type":"post","slug":"tacl-10-deploying-tacl","url":"/zh/blog/tacl-10-deploying-tacl","title":"如果真的部署 T-ACL，需要什么","description":"T-ACL 如果停留在论文里，它看起来像一个形式系统。","tags":["T-ACL","证书机制","制度设计","AI审计","方法论"],"concepts":["AI Governance","Methodology"],"category":"技术治理","date":"2026-05-08","language":"zh","body":"$1a"},{"type":"post","slug":"tacl-09-tacl-differences","url":"/zh/blog/tacl-09-tacl-differences","title":"T-ACL 和现有 AI 治理框架到底差在哪","description":"我最不想把 T-ACL 写成一种“替代品”。","tags":["T-ACL","方法论","AI审计","技术治理","算法问责"],"concepts":["AI Governance","Methodology"],"category":"技术治理","date":"2026-04-13","language":"zh","body":"$1b"},{"type":"post","slug":"tacl-08-what-tacl-is-not","url":"/zh/blog/tacl-08-what-tacl-is-not","title":"T-ACL 不是什么：关于 AI 治理闭合框架的几个误解","description":"提出一个新框架，最容易发生的事不是被理解，而是被归类。","tags":["T-ACL","证书机制","非闭合","硬阻断","方法论"],"concepts":["AI Governance","Methodology"],"category":"技术治理","date":"2026-03-21","language":"zh","body":"$1c"},{"type":"post","slug":"research-writing-calibration","url":"/zh/blog/research-writing-calibration","title":"写作先把话说清","description":"写作不是把句子写漂亮，而是先知道自己到底在说什么。","tags":["写作系统","方法论","自我修正"],"concepts":["Writing System","Methodology","Self-Correction"],"category":"写作札记","date":"2026-03-10","language":"zh","body":"\n写作最先要解决的，不是风格，而是意思。\n\n很多句子看起来顺，实际没有说清楚：主语是谁，动作是什么，范围到哪里。写作者自己可能知道，但读者没有义务替你补。\n\n   好句子不躲\n\n好句子愿意承担具体内容。它不靠大词遮掩，也不靠气势推进。\n\n我现在更喜欢短一点的句子。短句不一定浅，它只是让问题更快露出来。\n\n   修改不是润色\n\n润色可以让句子更顺，修改却要改变文本的结构。哪些句子重复了，哪些段落没有作用，哪些例子只是装饰，都要重新看。\n\n删掉一句漂亮但无用的话，通常比增加一句新话更难。\n\n   一个小规则\n\n写完以后，把每段第一句单独拎出来读。如果它们连不成一条清楚的线，正文多半也没有站稳。\n"},{"type":"post","slug":"tacl-07-when-can-ai-governance-conclude","url":"/zh/blog/tacl-07-when-can-ai-governance-conclude","title":"AI 治理真正缺的不是审计报告，而是“什么时候可以下结论”","description":"AI 治理现在不缺文件。","tags":["T-ACL","决策闭合","证书机制","硬阻断","AI治理"],"concepts":["AI Governance","Methodology"],"category":"技术治理","date":"2026-02-28","language":"zh","body":"$1d"},{"type":"post","slug":"social-theory-noise","url":"/zh/blog/social-theory-noise","title":"短句、长信和一个人的网页","description":"关于个人博客为什么仍然值得保留。","tags":["个人网站","写作系统","自我修正"],"concepts":["Civilization","Writing System","Self-Correction"],"category":"制度观察","date":"2026-02-18","language":"zh","body":"\n个人网页有一种过时的好处：它不急着把你推到别人面前。\n\n它不像动态，也不像简历。它更像一张长期摆着的桌子。你可以把还没写完的段落、最近读过的书、暂时不成熟的想法放上去。它们不必马上获得回应。\n\n   网页给人留一点距离\n\n距离不是冷漠。距离让文字有机会自己站一会儿。\n\n很多短内容适合即时交流，但不适合沉淀。它们太依赖当时的语境，过几天就失去温度。个人博客可以慢一点，把那些还值得重读的东西留下来。\n\n   长文不是为了显得认真\n\n长文的价值不在于长，而在于它允许绕路。一个问题被摊开以后，才看得见哪些地方其实没有想清楚。\n\n我喜欢这种暴露。它不体面，但有用。\n\n   这个网站的用法\n\n这里不会只放完整文章。随笔、读书记录、项目更新都会出现。它们的状态不同，不必装成同一种文本。\n\n能继续写下去的，会进入下一版。暂时写不下去的，也可以留在原处。\n"},{"type":"post","slug":"tacl-06-risk-under-control-status-language","url":"/zh/blog/tacl-06-risk-under-control-status-language","title":"“风险可控”到底是什么意思？AI 治理需要一种状态语言","description":"我在很多治理文件里都见过一句话：风险总体可控。","tags":["决策闭合","技术治理","算法问责","制度设计"],"concepts":["AI Governance","Methodology"],"category":"技术治理","date":"2026-02-06","language":"zh","body":"$1e"},{"type":"post","slug":"tacl-05-not-all-failures","url":"/zh/blog/tacl-05-not-all-failures","title":"不是所有“不通过”都一样","description":"我觉得 AI 治理里有一个词用得太粗：“不通过”。","tags":["决策闭合","非闭合","硬阻断","制度设计","T-ACL"],"concepts":["AI Governance","Methodology"],"category":"技术治理","date":"2026-01-14","language":"zh","body":"$1f"},{"type":"post","slug":"tacl-04-accuracy-not-final-question","url":"/zh/blog/tacl-04-accuracy-not-final-question","title":"模型准不准，不是最后的问题","description":"我现在越来越怀疑，AI 治理里最容易误导人的问题，恰恰是那个听起来最正常的问题：模型准不准？","tags":["案例分析","公共部门AI","正当程序","权利保障"],"concepts":["AI Governance","Civilization"],"category":"技术治理","date":"2025-12-19","language":"zh","body":"$20"},{"type":"post","slug":"tacl-03-three-governance-failures","url":"/zh/blog/tacl-03-three-governance-failures","title":"AI 系统治理中最危险的三种错误：过早通过、过早拒绝、无限拖延","description":"AI 治理讨论里，人们很容易把注意力放在模型错误上。","tags":["决策闭合","算法问责","非闭合","制度设计"],"concepts":["AI Governance","Methodology"],"category":"技术治理","date":"2025-11-27","language":"zh","body":"$21"},{"type":"post","slug":"tacl-02-ai-audit-enough","url":"/zh/blog/tacl-02-ai-audit-enough","title":"AI 审计报告越来越多，但谁来决定“够不够”？","description":"现在，谈 AI 治理已经不能只说“没有审计”。","tags":["AI审计","决策闭合","算法问责","技术治理"],"concepts":["AI Governance","Methodology"],"category":"技术治理","date":"2025-11-03","language":"zh","body":"$22"},{"type":"post","slug":"tacl-01-decision-closure","url":"/zh/blog/tacl-01-decision-closure","title":"我为什么关注 AI 治理中的“决策闭合”问题","description":"AI 治理讨论里，我们经常听到几个熟悉的词：透明度、公平性、可解释性、问责、审计、合规、风险管理。","tags":["AI治理","决策闭合","研究札记","T-ACL"],"concepts":["AI Governance","Methodology"],"category":"技术治理","date":"2025-10-12","language":"zh","body":"$23"}]}]]
-24:I[52855,["/_next/static/chunks/12nv79r2w_xqq.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/1fsad2bvtfpye.js","/_next/static/chunks/1d1e6svl7_lqj.js"],"ReadingProgress"]
-25:I[23150,["/_next/static/chunks/12nv79r2w_xqq.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/1fsad2bvtfpye.js","/_next/static/chunks/1d1e6svl7_lqj.js"],"ShareButtons"]
-d:[["$","$L24",null,{}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"我为什么关注 AI 治理中的“决策闭合”问题\",\"description\":\"AI 治理讨论里，我们经常听到几个熟悉的词：透明度、公平性、可解释性、问责、审计、合规、风险管理。\",\"datePublished\":\"2025-10-12\",\"dateModified\":\"2025-10-15\",\"author\":{\"@type\":\"Person\",\"name\":\"重生两万年\"},\"keywords\":\"AI治理, 决策闭合, 研究札记, T-ACL, AI治理, 方法论\",\"url\":\"https://chongsheng20000.github.io/zh/blog/tacl-01-decision-closure\"}"}}],["$","div",null,{"className":"article-layout","children":[["$","header",null,{"className":"article-header","children":[["$","p",null,{"className":"eyebrow","children":["技术治理"," / ","Research"," / v","1.0"]}],["$","h1",null,{"children":"我为什么关注 AI 治理中的“决策闭合”问题"}],["$","p",null,{"children":"AI 治理讨论里，我们经常听到几个熟悉的词：透明度、公平性、可解释性、问责、审计、合规、风险管理。"}],["$","div",null,{"className":"card-meta","children":[["$","span",null,{"children":"2025年10月12日"}],["$","span",null,{"children":"4 min read"}],["$","span",null,{"children":"1923 字"}]]}],["$","div",null,{"className":"concept-row","children":[["$","span","AI Governance",{"children":"AI治理"}],["$","span","Methodology",{"children":"方法论"}]]}],["$","div",null,{"className":"tag-row","children":[["$","$L6","AI治理",{"href":"/zh/tags/ai-governance","children":"AI治理"}],["$","$L6","决策闭合",{"href":"/zh/tags/decision-closure","children":"决策闭合"}],["$","$L6","研究札记",{"href":"/zh/tags/research-notes","children":"研究札记"}],["$","$L6","T-ACL",{"href":"/zh/tags/t-acl","children":"T-ACL"}]]}],["$","$L25",null,{"title":"我为什么关注 AI 治理中的“决策闭合”问题","path":"/zh/blog/tacl-01-decision-closure","locale":"zh"}]]}],["$","div",null,{"className":"article-body","children":[["$","article",null,{"className":"prose-shell","data-reader":true,"children":[["$","p",null,{"children":"AI 治理讨论里，我们经常听到几个熟悉的词：透明度、公平性、可解释性、问责、审计、合规、风险管理。"}],"\n",["$","p",null,{"children":"这些词都重要，但它们还没有触及我最关心的问题。"}],"\n",["$","p",null,{"children":"我真正关心的是：一个机构什么时候有资格下结论？"}],"\n",["$","p",null,{"children":"不是“这个 AI 系统有没有模型卡”。"}],"\n",["$","p",null,{"children":"不是“有没有做过偏见审计”。"}],"\n",["$","p",null,{"children":"不是“有没有写过风险评估报告”。"}],"\n",["$","p",null,{"children":"也不是“有没有法律意见或伦理审查记录”。"}],"\n",["$","p",null,{"children":"这些材料当然重要。但材料本身不会自动产生一个负责任的治理结论。"}],"\n",["$","p",null,{"children":"更困难的问题是："}],"\n",["$","p",null,{"children":"当证据不完整时，机构能不能批准？"}],"\n",["$","p",null,{"children":"当某些指标通过、某些指标失败、某些问题还没审完时，机构应该拒绝，还是继续审查？"}],"\n",["$","p",null,{"children":"当一个系统长期处于“还在评估”“还在补材料”“还在讨论”的状态时，这到底是谨慎，还是逃避责任？"}],"\n",["$","p",null,{"children":"这就是我所说的 AI 治理中的“决策闭合”问题。"}],"\n",["$","h2",null,{"id":"一ai-治理不是文件越多就越好","children":["$","a",null,{"href":"#一ai-治理不是文件越多就越好","children":"一、AI 治理不是文件越多就越好"}]}],"\n",["$","p",null,{"children":"今天的 AI 治理并不缺文件。"}],"\n",["$","p",null,{"children":"一个系统进入真实场景前，可能已经有模型卡、数据集说明、性能报告、公平性测试、偏见审计、风险评估、法律备忘录、人工复核说明、申诉机制记录。"}],"\n",["$","p",null,{"children":"这些材料可以告诉我们很多事情：模型怎么训练，数据来自哪里，性能指标如何，哪些群体可能受到影响，系统在哪些场景中不该使用，出现争议时谁可以申诉。"}],"\n",["$","p",null,{"children":"但它们并不自动回答一个更关键的问题："}],"\n",["$","p",null,{"children":"这些材料是否已经足够支持一个正式决定？"}],"\n",["$","p",null,{"children":"一个系统可能有很多文件，但仍然不能被负责任地批准。"}],"\n",["$","p",null,{"children":"比如，模型整体准确率不错，但某个群体的错误率没有被解释。"}],"\n",["$","p",null,{"children":"比如，系统做过一次审计，但审计范围太窄。"}],"\n",["$","p",null,{"children":"比如，法律意见认为风险“可控”，但没有说明申诉路径和受影响者权利。"}],"\n",["$","p",null,{"children":"比如，供应商声称系统公平，但没有公开证据、方法和版本记录。"}],"\n",["$","p",null,{"children":"这时，问题不是“有没有治理材料”。"}],"\n",["$","p",null,{"children":"问题是：这些材料有没有资格让机构关闭这个问题。"}],"\n",["$","h2",null,{"id":"二我关心的是机构如何下结论","children":["$","a",null,{"href":"#二我关心的是机构如何下结论","children":"二、我关心的是机构如何“下结论”"}]}],"\n",["$","p",null,{"children":"AI 治理中的结论通常有三种。"}],"\n",["$","p",null,{"children":"第一种是通过。机构说：这个系统可以部署，或者这个治理主张可以被接受。"}],"\n",["$","p",null,{"children":"第二种是拒绝。机构说：这个系统不能部署，或者这个治理主张已经失败。"}],"\n",["$","p",null,{"children":"第三种更复杂：现在不能通过，也不能最终拒绝。因为关键证据、法律判断、伦理审查、技术审计、申诉程序或补救措施还没有完成。"}],"\n",["$","p",null,{"children":"第三种状态经常被忽视。"}],"\n",["$","p",null,{"children":"在现实中，它可能被模糊地叫作“待进一步评估”“正在审查”“需要补充材料”“暂缓决定”。这些说法听起来谨慎，但如果没有责任人、期限、下一步行动和复核路径，它们也可能变成拖延。"}],"\n",["$","p",null,{"children":"所以我关心的不是抽象的“AI 是否伦理”。"}],"\n",["$","p",null,{"children":"我关心的是更具体的制度问题："}],"\n",["$","p",null,{"children":"一个机构什么时候可以说“通过”？"}],"\n",["$","p",null,{"children":"什么时候必须说“不通过”？"}],"\n",["$","p",null,{"children":"什么时候必须承认“现在还不能下结论”？"}],"\n",["$","p",null,{"children":"如果不能下结论，谁负责下一步？"}],"\n",["$","p",null,{"children":"这个状态能持续多久？"}],"\n",["$","p",null,{"children":"如果到期还没有解决，系统是否必须暂停、撤回或拒绝？"}],"\n","$L26","\n","$L27","\n","$L28","\n","$L29","\n","$L2a","\n","$L2b","\n","$L2c","\n","$L2d","\n","$L2e","\n","$L2f","\n","$L30","\n","$L31","\n","$L32","\n","$L33","\n","$L34","\n","$L35","\n","$L36","\n","$L37","\n","$L38","\n","$L39","\n","$L3a","\n","$L3b","\n","$L3c","\n","$L3d","\n","$L3e","\n","$L3f","\n","$L40","\n","$L41","\n","$L42","\n","$L43","\n","$L44","\n","$L45","\n","$L46","\n","$L47","\n","$L48","\n","$L49","\n","$L4a","\n","$L4b","\n","$L4c","\n","$L4d","\n","$L4e","\n","$L4f"]}],"$L50"]}],"$L51"]}]]
-52:I[8992,["/_next/static/chunks/12nv79r2w_xqq.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/1fsad2bvtfpye.js","/_next/static/chunks/1d1e6svl7_lqj.js"],"ReadingControls"]
-26:["$","p",null,{"children":"这就是决策闭合问题。"}]
-27:["$","h2",null,{"id":"三ai-治理最危险的不是错误而是不负责任地关闭问题","children":["$","a",null,{"href":"#三ai-治理最危险的不是错误而是不负责任地关闭问题","children":"三、AI 治理最危险的不是错误，而是不负责任地关闭问题"}]}]
-28:["$","p",null,{"children":"AI 系统当然会出错。模型可能偏差，数据可能不足，部署场景可能变化，指标可能失真。"}]
-29:["$","p",null,{"children":"但在治理层面，最危险的往往不是单个技术错误，而是机构如何处理这些错误。"}]
-2a:["$","p",null,{"children":"我看到三种反复出现的治理失败。"}]
-2b:["$","p",null,{"children":"第一种是过早通过。"}]
-2c:["$","p",null,{"children":"系统有一些好指标，有一些文件，有一些合规语言，于是机构说：可以上线。但公平性、申诉、法律授权、数据来源、漂移监控或审计完整性仍然没有真正解决。"}]
-2d:["$","p",null,{"children":"第二种是过早拒绝。"}]
-2e:["$","p",null,{"children":"某个分支出现问题，机构立刻把整个系统判为失败。但这个问题本来可能需要补救、复核、受影响群体参与或进一步法律判断。过早拒绝看似严格，实际上可能掩盖了本应完成的程序责任。"}]
-2f:["$","p",null,{"children":"第三种是无限拖延。"}]
-30:["$","p",null,{"children":"机构既不批准，也不拒绝，而是一直说“还在评估”。如果这种状态没有期限、没有责任人、没有公开理由、没有下一步行动，它就不是审慎，而是治理失败。"}]
-31:["$","p",null,{"children":"所以我关心的不是让 AI 治理变得更复杂。"}]
-32:["$","p",null,{"children":"我关心的是让治理结论更难被滥用。"}]
-33:["$","h2",null,{"id":"四为什么需要一种闭合状态的语言","children":["$","a",null,{"href":"#四为什么需要一种闭合状态的语言","children":"四、为什么需要一种“闭合状态”的语言"}]}]
-34:["$","p",null,{"children":"我们需要一种语言，能够清楚地区分三件事。"}]
-35:["$","p",null,{"children":"第一，某个主张是否可以被接受。"}]
-36:["$","p",null,{"children":"第二，某个主张是否可以被拒绝。"}]
-37:["$","p",null,{"children":"第三，某个主张是否必须继续保持开放，因为还有未解决的依赖条件。"}]
-38:["$","p",null,{"children":"这三个状态不能混在一起。"}]
-39:["$","p",null,{"children":"“还没审完”不等于“通过”。"}]
-3a:["$","p",null,{"children":"“发现问题”不一定等于“最终拒绝”。"}]
-3b:["$","p",null,{"children":"“继续评估”也不能成为无限拖延的借口。"}]
-3c:["$","p",null,{"children":"真正负责任的治理状态必须带有结构。"}]
-3d:["$","p",null,{"children":"如果一个问题还不能关闭，机构至少应该说明：为什么不能关闭、缺什么证据、谁负责处理、什么时候到期、下一步做什么、受影响者是否可以提出异议。"}]
-3e:["$","p",null,{"children":"如果一个问题必须拒绝，机构也应该说明：这是普通失败，还是不可豁免的法律、安全或权利阻断。"}]
-3f:["$","p",null,{"children":"这就是我后来提出 T-ACL 的背景。"}]
-40:["$","p",null,{"children":"T-ACL 试图给 AI 治理中的闭合判断提供一个更清楚的接口。它不是替代法律、伦理或技术审计，而是把这些上游判断连接到一个下游问题："}]
-41:["$","p",null,{"children":"现在能不能负责任地下结论？"}]
-42:["$","h2",null,{"id":"五我的基本立场","children":["$","a",null,{"href":"#五我的基本立场","children":"五、我的基本立场"}]}]
-43:["$","p",null,{"children":"我的基本立场很简单。"}]
-44:["$","p",null,{"children":"AI 治理不应该只追求更多文件。"}]
-45:["$","p",null,{"children":"也不应该只追求更漂亮的合规叙事。"}]
-46:["$","p",null,{"children":"它应该追求一种制度能力：在证据不完整、风险不均衡、权利关系复杂、技术和法律判断尚未完全一致时，仍然能够清楚地区分通过、拒绝和继续审查。"}]
-47:["$","p",null,{"children":"这件事看似小，但它决定了很多 AI 系统在现实中的命运。"}]
-48:["$","p",null,{"children":"一个不该上线的系统，可能因为材料看起来充分而被过早批准。"}]
-49:["$","p",null,{"children":"一个需要补救的系统，可能因为一个局部失败而被草率拒绝。"}]
-4a:["$","p",null,{"children":"一个本该被阻断的系统，可能因为机构长期“继续评估”而继续存在。"}]
-4b:["$","p",null,{"children":"一个真正受影响的人，可能永远不知道问题卡在哪里、谁负责、什么时候会重新判断。"}]
-4c:["$","p",null,{"children":"所以，AI 治理的核心问题之一不是“我们有没有审计”。"}]
-4d:["$","p",null,{"children":"而是："}]
-4e:["$","p",null,{"children":"审计之后，谁有资格说这个问题已经结束？"}]
-4f:["$","p",null,{"children":"这就是我关注决策闭合的原因。"}]
-50:["$","nav",null,{"className":"post-nav","aria-label":"上一篇和下一篇","children":[["$","span",null,{}],["$","$L6",null,{"href":"/zh/blog/tacl-02-ai-audit-enough","children":["AI 审计报告越来越多，但谁来决定“够不够”？"," →"]}]]}]
-51:["$","aside",null,{"className":"article-side","children":[["$","$L52",null,{"locale":"zh"}],["$","aside",null,{"className":"toc","aria-label":"Table of contents","children":[["$","p",null,{"children":"Index"}],[["$","a","一-ai-治理不是文件越多就越好",{"href":"#一-ai-治理不是文件越多就越好","className":"","children":"一、AI 治理不是文件越多就越好"}],["$","a","二-我关心的是机构如何-下结论",{"href":"#二-我关心的是机构如何-下结论","className":"","children":"二、我关心的是机构如何“下结论”"}],["$","a","三-ai-治理最危险的不是错误-而是不负责任地关闭问题",{"href":"#三-ai-治理最危险的不是错误-而是不负责任地关闭问题","className":"","children":"三、AI 治理最危险的不是错误，而是不负责任地关闭问题"}],["$","a","四-为什么需要一种-闭合状态-的语言",{"href":"#四-为什么需要一种-闭合状态-的语言","className":"","children":"四、为什么需要一种“闭合状态”的语言"}],["$","a","五-我的基本立场",{"href":"#五-我的基本立场","className":"","children":"五、我的基本立场"}]]]}]]}]
-13:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#071013"}]]
-53:I[27201,["/_next/static/chunks/12nv79r2w_xqq.js","/_next/static/chunks/14mrh2-p_w84d.js"],"IconMark"]
-10:null
-15:[["$","title","0",{"children":"我为什么关注 AI 治理中的“决策闭合”问题 | 重生两万年"}],["$","meta","1",{"name":"description","content":"AI 治理讨论里，我们经常听到几个熟悉的词：透明度、公平性、可解释性、问责、审计、合规、风险管理。"}],["$","link","2",{"rel":"manifest","href":"/manifest.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"keywords","content":"AI治理,决策闭合,研究札记,T-ACL,AI治理,方法论"}],["$","link","4",{"rel":"canonical","href":"https://chongsheng20000.github.io/zh/blog/tacl-01-decision-closure"}],["$","meta","5",{"property":"og:title","content":"我为什么关注 AI 治理中的“决策闭合”问题"}],["$","meta","6",{"property":"og:description","content":"AI 治理讨论里，我们经常听到几个熟悉的词：透明度、公平性、可解释性、问责、审计、合规、风险管理。"}],["$","meta","7",{"property":"og:url","content":"https://chongsheng20000.github.io/zh/blog/tacl-01-decision-closure"}],["$","meta","8",{"property":"og:type","content":"article"}],["$","meta","9",{"property":"article:published_time","content":"2025-10-12"}],["$","meta","10",{"property":"article:modified_time","content":"2025-10-15"}],["$","meta","11",{"property":"article:author","content":"重生两万年"}],["$","meta","12",{"property":"article:tag","content":"AI治理"}],["$","meta","13",{"property":"article:tag","content":"决策闭合"}],["$","meta","14",{"property":"article:tag","content":"研究札记"}],["$","meta","15",{"property":"article:tag","content":"T-ACL"}],["$","meta","16",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","17",{"name":"twitter:title","content":"我为什么关注 AI 治理中的“决策闭合”问题"}],["$","meta","18",{"name":"twitter:description","content":"AI 治理讨论里，我们经常听到几个熟悉的词：透明度、公平性、可解释性、问责、审计、合规、风险管理。"}],["$","link","19",{"rel":"icon","href":"/icon.svg"}],["$","link","20",{"rel":"apple-touch-icon","href":"/icon.svg"}],["$","$L53","21",{}]]
+d:[["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L19",null,{"items":[{"type":"post","slug":"tacl-11-ai-governance-as-closure-problem","url":"/zh/blog/tacl-11-ai-governance-as-closure-problem","title":"为什么我把 AI 治理理解为“闭合问题”","description":"我现在越来越不愿意把 AI 治理理解成一个单纯的原则问题。","tags":["决策闭合","研究札记","T-ACL","AI治理","制度设计"],"concepts":["AI Governance","Methodology"],"category":"技术治理","date":"2026-05-29","language":"zh","body":"$1a"},{"type":"post","slug":"tacl-10-deploying-tacl","url":"/zh/blog/tacl-10-deploying-tacl","title":"如果真的部署 T-ACL，需要什么","description":"T-ACL 如果停留在论文里，它看起来像一个形式系统。","tags":["T-ACL","证书机制","制度设计","AI审计","方法论"],"concepts":["AI Governance","Methodology"],"category":"技术治理","date":"2026-05-08","language":"zh","body":"$1b"},{"type":"post","slug":"tacl-09-tacl-differences","url":"/zh/blog/tacl-09-tacl-differences","title":"T-ACL 和现有 AI 治理框架到底差在哪","description":"我最不想把 T-ACL 写成一种“替代品”。","tags":["T-ACL","方法论","AI审计","技术治理","算法问责"],"concepts":["AI Governance","Methodology"],"category":"技术治理","date":"2026-04-13","language":"zh","body":"$1c"},{"type":"post","slug":"tacl-08-what-tacl-is-not","url":"/zh/blog/tacl-08-what-tacl-is-not","title":"T-ACL 不是什么：关于 AI 治理闭合框架的几个误解","description":"提出一个新框架，最容易发生的事不是被理解，而是被归类。","tags":["T-ACL","证书机制","非闭合","硬阻断","方法论"],"concepts":["AI Governance","Methodology"],"category":"技术治理","date":"2026-03-21","language":"zh","body":"$1d"},{"type":"post","slug":"research-writing-calibration","url":"/zh/blog/research-writing-calibration","title":"写作先把话说清","description":"写作不是把句子写漂亮，而是先知道自己到底在说什么。","tags":["写作系统","方法论","自我修正"],"concepts":["Writing System","Methodology","Self-Correction"],"category":"写作札记","date":"2026-03-10","language":"zh","body":"\n写作最先要解决的，不是风格，而是意思。\n\n很多句子看起来顺，实际没有说清楚：主语是谁，动作是什么，范围到哪里。写作者自己可能知道，但读者没有义务替你补。\n\n   好句子不躲\n\n好句子愿意承担具体内容。它不靠大词遮掩，也不靠气势推进。\n\n我现在更喜欢短一点的句子。短句不一定浅，它只是让问题更快露出来。\n\n   修改不是润色\n\n润色可以让句子更顺，修改却要改变文本的结构。哪些句子重复了，哪些段落没有作用，哪些例子只是装饰，都要重新看。\n\n删掉一句漂亮但无用的话，通常比增加一句新话更难。\n\n   一个小规则\n\n写完以后，把每段第一句单独拎出来读。如果它们连不成一条清楚的线，正文多半也没有站稳。\n"},{"type":"post","slug":"tacl-07-when-can-ai-governance-conclude","url":"/zh/blog/tacl-07-when-can-ai-governance-conclude","title":"AI 治理真正缺的不是审计报告，而是“什么时候可以下结论”","description":"AI 治理现在不缺文件。","tags":["T-ACL","决策闭合","证书机制","硬阻断","AI治理"],"concepts":["AI Governance","Methodology"],"category":"技术治理","date":"2026-02-28","language":"zh","body":"$1e"},{"type":"post","slug":"social-theory-noise","url":"/zh/blog/social-theory-noise","title":"短句、长信和一个人的网页","description":"关于个人博客为什么仍然值得保留。","tags":["个人网站","写作系统","自我修正"],"concepts":["Civilization","Writing System","Self-Correction"],"category":"制度观察","date":"2026-02-18","language":"zh","body":"\n个人网页有一种过时的好处：它不急着把你推到别人面前。\n\n它不像动态，也不像简历。它更像一张长期摆着的桌子。你可以把还没写完的段落、最近读过的书、暂时不成熟的想法放上去。它们不必马上获得回应。\n\n   网页给人留一点距离\n\n距离不是冷漠。距离让文字有机会自己站一会儿。\n\n很多短内容适合即时交流，但不适合沉淀。它们太依赖当时的语境，过几天就失去温度。个人博客可以慢一点，把那些还值得重读的东西留下来。\n\n   长文不是为了显得认真\n\n长文的价值不在于长，而在于它允许绕路。一个问题被摊开以后，才看得见哪些地方其实没有想清楚。\n\n我喜欢这种暴露。它不体面，但有用。\n\n   这个网站的用法\n\n这里不会只放完整文章。随笔、读书记录、项目更新都会出现。它们的状态不同，不必装成同一种文本。\n\n能继续写下去的，会进入下一版。暂时写不下去的，也可以留在原处。\n"},{"type":"post","slug":"tacl-06-risk-under-control-status-language","url":"/zh/blog/tacl-06-risk-under-control-status-language","title":"“风险可控”到底是什么意思？AI 治理需要一种状态语言","description":"我在很多治理文件里都见过一句话：风险总体可控。","tags":["决策闭合","技术治理","算法问责","制度设计"],"concepts":["AI Governance","Methodology"],"category":"技术治理","date":"2026-02-06","language":"zh","body":"$1f"},{"type":"post","slug":"tacl-05-not-all-failures","url":"/zh/blog/tacl-05-not-all-failures","title":"不是所有“不通过”都一样","description":"我觉得 AI 治理里有一个词用得太粗：“不通过”。","tags":["决策闭合","非闭合","硬阻断","制度设计","T-ACL"],"concepts":["AI Governance","Methodology"],"category":"技术治理","date":"2026-01-14","language":"zh","body":"$20"},{"type":"post","slug":"tacl-04-accuracy-not-final-question","url":"/zh/blog/tacl-04-accuracy-not-final-question","title":"模型准不准，不是最后的问题","description":"我现在越来越怀疑，AI 治理里最容易误导人的问题，恰恰是那个听起来最正常的问题：模型准不准？","tags":["案例分析","公共部门AI","正当程序","权利保障"],"concepts":["AI Governance","Civilization"],"category":"技术治理","date":"2025-12-19","language":"zh","body":"$21"},{"type":"post","slug":"tacl-03-three-governance-failures","url":"/zh/blog/tacl-03-three-governance-failures","title":"AI 系统治理中最危险的三种错误：过早通过、过早拒绝、无限拖延","description":"AI 治理讨论里，人们很容易把注意力放在模型错误上。","tags":["决策闭合","算法问责","非闭合","制度设计"],"concepts":["AI Governance","Methodology"],"category":"技术治理","date":"2025-11-27","language":"zh","body":"$22"},{"type":"post","slug":"tacl-02-ai-audit-enough","url":"/zh/blog/tacl-02-ai-audit-enough","title":"AI 审计报告越来越多，但谁来决定“够不够”？","description":"现在，谈 AI 治理已经不能只说“没有审计”。","tags":["AI审计","决策闭合","算法问责","技术治理"],"concepts":["AI Governance","Methodology"],"category":"技术治理","date":"2025-11-03","language":"zh","body":"$23"},{"type":"post","slug":"tacl-01-decision-closure","url":"/zh/blog/tacl-01-decision-closure","title":"我为什么关注 AI 治理中的“决策闭合”问题","description":"AI 治理讨论里，我们经常听到几个熟悉的词：透明度、公平性、可解释性、问责、审计、合规、风险管理。","tags":["AI治理","决策闭合","研究札记","T-ACL"],"concepts":["AI Governance","Methodology"],"category":"技术治理","date":"2025-10-12","language":"zh","body":"$24"}]}]]
+25:I[52855,["/_next/static/chunks/2wru34nb__67c.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/1fsad2bvtfpye.js","/_next/static/chunks/2dabub5lipd88.js"],"ReadingProgress"]
+26:I[23150,["/_next/static/chunks/2wru34nb__67c.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/1fsad2bvtfpye.js","/_next/static/chunks/2dabub5lipd88.js"],"ShareButtons"]
+e:[["$","$L25",null,{}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"我为什么关注 AI 治理中的“决策闭合”问题\",\"description\":\"AI 治理讨论里，我们经常听到几个熟悉的词：透明度、公平性、可解释性、问责、审计、合规、风险管理。\",\"datePublished\":\"2025-10-12\",\"dateModified\":\"2025-10-15\",\"author\":{\"@type\":\"Person\",\"name\":\"重生两万年\"},\"keywords\":\"AI治理, 决策闭合, 研究札记, T-ACL, AI治理, 方法论\",\"url\":\"https://chongsheng20000.github.io/zh/blog/tacl-01-decision-closure\"}"}}],["$","div",null,{"className":"article-layout","children":[["$","header",null,{"className":"article-header","children":[["$","p",null,{"className":"eyebrow","children":["技术治理"," / ","Research"," / v","1.0"]}],["$","h1",null,{"children":"我为什么关注 AI 治理中的“决策闭合”问题"}],["$","p",null,{"children":"AI 治理讨论里，我们经常听到几个熟悉的词：透明度、公平性、可解释性、问责、审计、合规、风险管理。"}],["$","div",null,{"className":"card-meta","children":[["$","span",null,{"children":"2025年10月12日"}],["$","span",null,{"children":"4 min read"}],["$","span",null,{"children":"1923 字"}]]}],["$","div",null,{"className":"concept-row","children":[["$","span","AI Governance",{"children":"AI治理"}],["$","span","Methodology",{"children":"方法论"}]]}],["$","div",null,{"className":"tag-row","children":[["$","$L6","AI治理",{"href":"/zh/tags/ai-governance","children":"AI治理"}],["$","$L6","决策闭合",{"href":"/zh/tags/decision-closure","children":"决策闭合"}],["$","$L6","研究札记",{"href":"/zh/tags/research-notes","children":"研究札记"}],["$","$L6","T-ACL",{"href":"/zh/tags/t-acl","children":"T-ACL"}]]}],["$","$L26",null,{"title":"我为什么关注 AI 治理中的“决策闭合”问题","path":"/zh/blog/tacl-01-decision-closure","locale":"zh"}]]}],["$","div",null,{"className":"article-body","children":[["$","article",null,{"className":"prose-shell","data-reader":true,"children":[["$","p",null,{"children":"AI 治理讨论里，我们经常听到几个熟悉的词：透明度、公平性、可解释性、问责、审计、合规、风险管理。"}],"\n",["$","p",null,{"children":"这些词都重要，但它们还没有触及我最关心的问题。"}],"\n",["$","p",null,{"children":"我真正关心的是：一个机构什么时候有资格下结论？"}],"\n",["$","p",null,{"children":"不是“这个 AI 系统有没有模型卡”。"}],"\n",["$","p",null,{"children":"不是“有没有做过偏见审计”。"}],"\n",["$","p",null,{"children":"不是“有没有写过风险评估报告”。"}],"\n",["$","p",null,{"children":"也不是“有没有法律意见或伦理审查记录”。"}],"\n",["$","p",null,{"children":"这些材料当然重要。但材料本身不会自动产生一个负责任的治理结论。"}],"\n",["$","p",null,{"children":"更困难的问题是："}],"\n",["$","p",null,{"children":"当证据不完整时，机构能不能批准？"}],"\n",["$","p",null,{"children":"当某些指标通过、某些指标失败、某些问题还没审完时，机构应该拒绝，还是继续审查？"}],"\n",["$","p",null,{"children":"当一个系统长期处于“还在评估”“还在补材料”“还在讨论”的状态时，这到底是谨慎，还是逃避责任？"}],"\n",["$","p",null,{"children":"这就是我所说的 AI 治理中的“决策闭合”问题。"}],"\n",["$","h2",null,{"id":"一ai-治理不是文件越多就越好","children":["$","a",null,{"href":"#一ai-治理不是文件越多就越好","children":"一、AI 治理不是文件越多就越好"}]}],"\n",["$","p",null,{"children":"今天的 AI 治理并不缺文件。"}],"\n",["$","p",null,{"children":"一个系统进入真实场景前，可能已经有模型卡、数据集说明、性能报告、公平性测试、偏见审计、风险评估、法律备忘录、人工复核说明、申诉机制记录。"}],"\n",["$","p",null,{"children":"这些材料可以告诉我们很多事情：模型怎么训练，数据来自哪里，性能指标如何，哪些群体可能受到影响，系统在哪些场景中不该使用，出现争议时谁可以申诉。"}],"\n",["$","p",null,{"children":"但它们并不自动回答一个更关键的问题："}],"\n",["$","p",null,{"children":"这些材料是否已经足够支持一个正式决定？"}],"\n",["$","p",null,{"children":"一个系统可能有很多文件，但仍然不能被负责任地批准。"}],"\n",["$","p",null,{"children":"比如，模型整体准确率不错，但某个群体的错误率没有被解释。"}],"\n",["$","p",null,{"children":"比如，系统做过一次审计，但审计范围太窄。"}],"\n",["$","p",null,{"children":"比如，法律意见认为风险“可控”，但没有说明申诉路径和受影响者权利。"}],"\n",["$","p",null,{"children":"比如，供应商声称系统公平，但没有公开证据、方法和版本记录。"}],"\n",["$","p",null,{"children":"这时，问题不是“有没有治理材料”。"}],"\n",["$","p",null,{"children":"问题是：这些材料有没有资格让机构关闭这个问题。"}],"\n",["$","h2",null,{"id":"二我关心的是机构如何下结论","children":["$","a",null,{"href":"#二我关心的是机构如何下结论","children":"二、我关心的是机构如何“下结论”"}]}],"\n",["$","p",null,{"children":"AI 治理中的结论通常有三种。"}],"\n",["$","p",null,{"children":"第一种是通过。机构说：这个系统可以部署，或者这个治理主张可以被接受。"}],"\n",["$","p",null,{"children":"第二种是拒绝。机构说：这个系统不能部署，或者这个治理主张已经失败。"}],"\n",["$","p",null,{"children":"第三种更复杂：现在不能通过，也不能最终拒绝。因为关键证据、法律判断、伦理审查、技术审计、申诉程序或补救措施还没有完成。"}],"\n",["$","p",null,{"children":"第三种状态经常被忽视。"}],"\n",["$","p",null,{"children":"在现实中，它可能被模糊地叫作“待进一步评估”“正在审查”“需要补充材料”“暂缓决定”。这些说法听起来谨慎，但如果没有责任人、期限、下一步行动和复核路径，它们也可能变成拖延。"}],"\n",["$","p",null,{"children":"所以我关心的不是抽象的“AI 是否伦理”。"}],"\n",["$","p",null,{"children":"我关心的是更具体的制度问题："}],"\n",["$","p",null,{"children":"一个机构什么时候可以说“通过”？"}],"\n",["$","p",null,{"children":"什么时候必须说“不通过”？"}],"\n",["$","p",null,{"children":"什么时候必须承认“现在还不能下结论”？"}],"\n",["$","p",null,{"children":"如果不能下结论，谁负责下一步？"}],"\n",["$","p",null,{"children":"这个状态能持续多久？"}],"\n",["$","p",null,{"children":"如果到期还没有解决，系统是否必须暂停、撤回或拒绝？"}],"\n","$L27","\n","$L28","\n","$L29","\n","$L2a","\n","$L2b","\n","$L2c","\n","$L2d","\n","$L2e","\n","$L2f","\n","$L30","\n","$L31","\n","$L32","\n","$L33","\n","$L34","\n","$L35","\n","$L36","\n","$L37","\n","$L38","\n","$L39","\n","$L3a","\n","$L3b","\n","$L3c","\n","$L3d","\n","$L3e","\n","$L3f","\n","$L40","\n","$L41","\n","$L42","\n","$L43","\n","$L44","\n","$L45","\n","$L46","\n","$L47","\n","$L48","\n","$L49","\n","$L4a","\n","$L4b","\n","$L4c","\n","$L4d","\n","$L4e","\n","$L4f","\n","$L50"]}],"$L51"]}],"$L52"]}]]
+53:I[8992,["/_next/static/chunks/2wru34nb__67c.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/1fsad2bvtfpye.js","/_next/static/chunks/2dabub5lipd88.js"],"ReadingControls"]
+27:["$","p",null,{"children":"这就是决策闭合问题。"}]
+28:["$","h2",null,{"id":"三ai-治理最危险的不是错误而是不负责任地关闭问题","children":["$","a",null,{"href":"#三ai-治理最危险的不是错误而是不负责任地关闭问题","children":"三、AI 治理最危险的不是错误，而是不负责任地关闭问题"}]}]
+29:["$","p",null,{"children":"AI 系统当然会出错。模型可能偏差，数据可能不足，部署场景可能变化，指标可能失真。"}]
+2a:["$","p",null,{"children":"但在治理层面，最危险的往往不是单个技术错误，而是机构如何处理这些错误。"}]
+2b:["$","p",null,{"children":"我看到三种反复出现的治理失败。"}]
+2c:["$","p",null,{"children":"第一种是过早通过。"}]
+2d:["$","p",null,{"children":"系统有一些好指标，有一些文件，有一些合规语言，于是机构说：可以上线。但公平性、申诉、法律授权、数据来源、漂移监控或审计完整性仍然没有真正解决。"}]
+2e:["$","p",null,{"children":"第二种是过早拒绝。"}]
+2f:["$","p",null,{"children":"某个分支出现问题，机构立刻把整个系统判为失败。但这个问题本来可能需要补救、复核、受影响群体参与或进一步法律判断。过早拒绝看似严格，实际上可能掩盖了本应完成的程序责任。"}]
+30:["$","p",null,{"children":"第三种是无限拖延。"}]
+31:["$","p",null,{"children":"机构既不批准，也不拒绝，而是一直说“还在评估”。如果这种状态没有期限、没有责任人、没有公开理由、没有下一步行动，它就不是审慎，而是治理失败。"}]
+32:["$","p",null,{"children":"所以我关心的不是让 AI 治理变得更复杂。"}]
+33:["$","p",null,{"children":"我关心的是让治理结论更难被滥用。"}]
+34:["$","h2",null,{"id":"四为什么需要一种闭合状态的语言","children":["$","a",null,{"href":"#四为什么需要一种闭合状态的语言","children":"四、为什么需要一种“闭合状态”的语言"}]}]
+35:["$","p",null,{"children":"我们需要一种语言，能够清楚地区分三件事。"}]
+36:["$","p",null,{"children":"第一，某个主张是否可以被接受。"}]
+37:["$","p",null,{"children":"第二，某个主张是否可以被拒绝。"}]
+38:["$","p",null,{"children":"第三，某个主张是否必须继续保持开放，因为还有未解决的依赖条件。"}]
+39:["$","p",null,{"children":"这三个状态不能混在一起。"}]
+3a:["$","p",null,{"children":"“还没审完”不等于“通过”。"}]
+3b:["$","p",null,{"children":"“发现问题”不一定等于“最终拒绝”。"}]
+3c:["$","p",null,{"children":"“继续评估”也不能成为无限拖延的借口。"}]
+3d:["$","p",null,{"children":"真正负责任的治理状态必须带有结构。"}]
+3e:["$","p",null,{"children":"如果一个问题还不能关闭，机构至少应该说明：为什么不能关闭、缺什么证据、谁负责处理、什么时候到期、下一步做什么、受影响者是否可以提出异议。"}]
+3f:["$","p",null,{"children":"如果一个问题必须拒绝，机构也应该说明：这是普通失败，还是不可豁免的法律、安全或权利阻断。"}]
+40:["$","p",null,{"children":"这就是我后来提出 T-ACL 的背景。"}]
+41:["$","p",null,{"children":"T-ACL 试图给 AI 治理中的闭合判断提供一个更清楚的接口。它不是替代法律、伦理或技术审计，而是把这些上游判断连接到一个下游问题："}]
+42:["$","p",null,{"children":"现在能不能负责任地下结论？"}]
+43:["$","h2",null,{"id":"五我的基本立场","children":["$","a",null,{"href":"#五我的基本立场","children":"五、我的基本立场"}]}]
+44:["$","p",null,{"children":"我的基本立场很简单。"}]
+45:["$","p",null,{"children":"AI 治理不应该只追求更多文件。"}]
+46:["$","p",null,{"children":"也不应该只追求更漂亮的合规叙事。"}]
+47:["$","p",null,{"children":"它应该追求一种制度能力：在证据不完整、风险不均衡、权利关系复杂、技术和法律判断尚未完全一致时，仍然能够清楚地区分通过、拒绝和继续审查。"}]
+48:["$","p",null,{"children":"这件事看似小，但它决定了很多 AI 系统在现实中的命运。"}]
+49:["$","p",null,{"children":"一个不该上线的系统，可能因为材料看起来充分而被过早批准。"}]
+4a:["$","p",null,{"children":"一个需要补救的系统，可能因为一个局部失败而被草率拒绝。"}]
+4b:["$","p",null,{"children":"一个本该被阻断的系统，可能因为机构长期“继续评估”而继续存在。"}]
+4c:["$","p",null,{"children":"一个真正受影响的人，可能永远不知道问题卡在哪里、谁负责、什么时候会重新判断。"}]
+4d:["$","p",null,{"children":"所以，AI 治理的核心问题之一不是“我们有没有审计”。"}]
+4e:["$","p",null,{"children":"而是："}]
+4f:["$","p",null,{"children":"审计之后，谁有资格说这个问题已经结束？"}]
+50:["$","p",null,{"children":"这就是我关注决策闭合的原因。"}]
+51:["$","nav",null,{"className":"post-nav","aria-label":"上一篇和下一篇","children":[["$","span",null,{}],["$","$L6",null,{"href":"/zh/blog/tacl-02-ai-audit-enough","children":["AI 审计报告越来越多，但谁来决定“够不够”？"," →"]}]]}]
+52:["$","aside",null,{"className":"article-side","children":[["$","$L53",null,{"locale":"zh"}],["$","aside",null,{"className":"toc","aria-label":"Table of contents","children":[["$","p",null,{"children":"Index"}],[["$","a","一-ai-治理不是文件越多就越好",{"href":"#一-ai-治理不是文件越多就越好","className":"","children":"一、AI 治理不是文件越多就越好"}],["$","a","二-我关心的是机构如何-下结论",{"href":"#二-我关心的是机构如何-下结论","className":"","children":"二、我关心的是机构如何“下结论”"}],["$","a","三-ai-治理最危险的不是错误-而是不负责任地关闭问题",{"href":"#三-ai-治理最危险的不是错误-而是不负责任地关闭问题","className":"","children":"三、AI 治理最危险的不是错误，而是不负责任地关闭问题"}],["$","a","四-为什么需要一种-闭合状态-的语言",{"href":"#四-为什么需要一种-闭合状态-的语言","className":"","children":"四、为什么需要一种“闭合状态”的语言"}],["$","a","五-我的基本立场",{"href":"#五-我的基本立场","className":"","children":"五、我的基本立场"}]]]}]]}]
+14:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#071013"}]]
+54:I[27201,["/_next/static/chunks/2wru34nb__67c.js","/_next/static/chunks/14mrh2-p_w84d.js"],"IconMark"]
+11:null
+16:[["$","title","0",{"children":"我为什么关注 AI 治理中的“决策闭合”问题 | 重生两万年"}],["$","meta","1",{"name":"description","content":"AI 治理讨论里，我们经常听到几个熟悉的词：透明度、公平性、可解释性、问责、审计、合规、风险管理。"}],["$","link","2",{"rel":"manifest","href":"/manifest.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"keywords","content":"AI治理,决策闭合,研究札记,T-ACL,AI治理,方法论"}],["$","link","4",{"rel":"canonical","href":"https://chongsheng20000.github.io/zh/blog/tacl-01-decision-closure"}],["$","meta","5",{"property":"og:title","content":"我为什么关注 AI 治理中的“决策闭合”问题"}],["$","meta","6",{"property":"og:description","content":"AI 治理讨论里，我们经常听到几个熟悉的词：透明度、公平性、可解释性、问责、审计、合规、风险管理。"}],["$","meta","7",{"property":"og:url","content":"https://chongsheng20000.github.io/zh/blog/tacl-01-decision-closure"}],["$","meta","8",{"property":"og:type","content":"article"}],["$","meta","9",{"property":"article:published_time","content":"2025-10-12"}],["$","meta","10",{"property":"article:modified_time","content":"2025-10-15"}],["$","meta","11",{"property":"article:author","content":"重生两万年"}],["$","meta","12",{"property":"article:tag","content":"AI治理"}],["$","meta","13",{"property":"article:tag","content":"决策闭合"}],["$","meta","14",{"property":"article:tag","content":"研究札记"}],["$","meta","15",{"property":"article:tag","content":"T-ACL"}],["$","meta","16",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","17",{"name":"twitter:title","content":"我为什么关注 AI 治理中的“决策闭合”问题"}],["$","meta","18",{"name":"twitter:description","content":"AI 治理讨论里，我们经常听到几个熟悉的词：透明度、公平性、可解释性、问责、审计、合规、风险管理。"}],["$","link","19",{"rel":"icon","href":"/icon.svg"}],["$","link","20",{"rel":"apple-touch-icon","href":"/icon.svg"}],["$","$L54","21",{}]]
