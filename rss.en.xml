@@ -4,7 +4,7 @@
     <title>重生两万年 English RSS</title>
     <link>https://chongsheng20000.github.io/en</link>
     <atom:link href="https://chongsheng20000.github.io/rss.en.xml" rel="self" type="application/rss+xml" />
-    <description>重生两万年的个人博客，记录文章、阅读和长期项目。</description>
+    <description>重生两万年的研究型个人站，主要记录 AI治理、算法问责、技术治理、决策闭合、T-ACL 和研究写作。</description>
     <language>en-US</language>
     <lastBuildDate>Tue, 02 Jun 2026 00:00:00 GMT</lastBuildDate>
     <item>
@@ -12,98 +12,98 @@
       <link>https://chongsheng20000.github.io/en/blog/tacl-11-ai-governance-as-closure-problem</link>
       <guid isPermaLink="true">https://chongsheng20000.github.io/en/blog/tacl-11-ai-governance-as-closure-problem</guid>
       <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
-      <description>I have become less willing to describe AI governance mainly as a problem of principles.</description>
+      <description>Closing note for the research line. AI governance narrows to a smaller question: who is entitled to close a judgment.</description>
     </item>
     <item>
       <title>What It Would Take to Implement T-ACL</title>
       <link>https://chongsheng20000.github.io/en/blog/tacl-10-deploying-tacl</link>
       <guid isPermaLink="true">https://chongsheng20000.github.io/en/blog/tacl-10-deploying-tacl</guid>
       <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
-      <description>If T-ACL stays inside a paper, it looks like a formal system.</description>
+      <description>Implementing T-ACL requires certificate schema, status logs, and a minimal reasoner. The formal system has to enter workflow.</description>
     </item>
     <item>
       <title>Small Claims, Clear Edges</title>
       <link>https://chongsheng20000.github.io/en/blog/research-method-small-claims</link>
       <guid isPermaLink="true">https://chongsheng20000.github.io/en/blog/research-method-small-claims</guid>
       <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
-      <description>A writing note on making an argument narrow enough to inspect.</description>
+      <description>Small claims are easier to inspect. The boundary has to narrow before evidence has a place.</description>
     </item>
     <item>
       <title>How T-ACL Differs from Existing AI Governance Frameworks</title>
       <link>https://chongsheng20000.github.io/en/blog/tacl-09-tacl-differences</link>
       <guid isPermaLink="true">https://chongsheng20000.github.io/en/blog/tacl-09-tacl-differences</guid>
       <pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
-      <description>I do not want to present T-ACL as a replacement for everything that already exists.</description>
+      <description>T-ACL does not replace model cards, audits, or legal reasoning. It handles the next step: how materials become closure status.</description>
     </item>
     <item>
       <title>Revision Without Drama</title>
       <link>https://chongsheng20000.github.io/en/blog/philosophy-of-revision</link>
       <guid isPermaLink="true">https://chongsheng20000.github.io/en/blog/philosophy-of-revision</guid>
       <pubDate>Sun, 22 Mar 2026 00:00:00 GMT</pubDate>
-      <description>A note on keeping old versions visible without treating them as monuments.</description>
+      <description>Revision exposes how a judgment gets replaced. Old versions stay because change needs a record.</description>
     </item>
     <item>
       <title>What T-ACL Is Not: Misunderstandings About Closure in AI Governance</title>
       <link>https://chongsheng20000.github.io/en/blog/tacl-08-what-tacl-is-not</link>
       <guid isPermaLink="true">https://chongsheng20000.github.io/en/blog/tacl-08-what-tacl-is-not</guid>
       <pubDate>Sat, 21 Mar 2026 00:00:00 GMT</pubDate>
-      <description>When a new framework is proposed, the first thing readers usually do is not understand it. They classify it.</description>
+      <description>Boundary note. T-ACL does not replace audit, legal judgment, or regulatory authority.</description>
     </item>
     <item>
       <title>AI Governance Does Not Just Need More Audits. It Needs a Way to Decide When a Case Is Closed.</title>
       <link>https://chongsheng20000.github.io/en/blog/tacl-07-when-can-ai-governance-conclude</link>
       <guid isPermaLink="true">https://chongsheng20000.github.io/en/blog/tacl-07-when-can-ai-governance-conclude</guid>
       <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
-      <description>AI governance is no longer short on documents.</description>
+      <description>The main T-ACL text. It handles the step after audits, legal reviews, and risk assessments: how materials support closure.</description>
     </item>
     <item>
       <title>What Does &quot;Risk Under Control&quot; Actually Mean?</title>
       <link>https://chongsheng20000.github.io/en/blog/tacl-06-risk-under-control-status-language</link>
       <guid isPermaLink="true">https://chongsheng20000.github.io/en/blog/tacl-06-risk-under-control-status-language</guid>
       <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
-      <description>I have seen one phrase in too many governance documents: the risks are generally under control.</description>
+      <description>Risk under control has to become a status. Otherwise it remains a loose line in an approval file.</description>
     </item>
     <item>
       <title>A Tool Is Never Just a Tool</title>
       <link>https://chongsheng20000.github.io/en/blog/tool-is-never-just-a-tool</link>
       <guid isPermaLink="true">https://chongsheng20000.github.io/en/blog/tool-is-never-just-a-tool</guid>
       <pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
-      <description>Notes on release choices, habits, and the quiet politics of software.</description>
+      <description>Release decisions leave permissions, logs, and rollback conditions. Governance becomes visible after a tool ships.</description>
     </item>
     <item>
       <title>Not Every &quot;Failure&quot; Means the Same Thing</title>
       <link>https://chongsheng20000.github.io/en/blog/tacl-05-not-all-failures</link>
       <guid isPermaLink="true">https://chongsheng20000.github.io/en/blog/tacl-05-not-all-failures</guid>
       <pubDate>Wed, 14 Jan 2026 00:00:00 GMT</pubDate>
-      <description>There is a word in AI governance that does too much work: failure.</description>
+      <description>A failed check may mean C, F, or a validated hard block. Treating them as one status removes the diagnostic value.</description>
     </item>
     <item>
       <title>Accuracy Is Not the Last Question</title>
       <link>https://chongsheng20000.github.io/en/blog/tacl-04-accuracy-not-final-question</link>
       <guid isPermaLink="true">https://chongsheng20000.github.io/en/blog/tacl-04-accuracy-not-final-question</guid>
       <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
-      <description>I have become increasingly suspicious of the question that often sounds the most reasonable in AI governance: how accurate is the model?</description>
+      <description>MiDAS and SyRI are not model-accuracy stories. Once a system enters public power, notice, appeal, and rights protection become deployment conditions.</description>
     </item>
     <item>
       <title>The Three Governance Failures: Premature Acceptance, Premature Rejection, and Indefinite Delay</title>
       <link>https://chongsheng20000.github.io/en/blog/tacl-03-three-governance-failures</link>
       <guid isPermaLink="true">https://chongsheng20000.github.io/en/blog/tacl-03-three-governance-failures</guid>
       <pubDate>Thu, 27 Nov 2025 00:00:00 GMT</pubDate>
-      <description>AI governance discussions often focus on model errors.</description>
+      <description>Premature acceptance, premature rejection, and indefinite delay are different failures. T-ACL starts by separating them.</description>
     </item>
     <item>
       <title>AI Audits Are Growing. But Who Decides When They Are Enough?</title>
       <link>https://chongsheng20000.github.io/en/blog/tacl-02-ai-audit-enough</link>
       <guid isPermaLink="true">https://chongsheng20000.github.io/en/blog/tacl-02-ai-audit-enough</guid>
       <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
-      <description>The AI governance conversation can no longer be reduced to the claim that systems are not being audited.</description>
+      <description>More audit reports move the gap to threshold judgment. The unresolved question is who decides enough.</description>
     </item>
     <item>
       <title>Why I Care About Closure in AI Governance</title>
       <link>https://chongsheng20000.github.io/en/blog/tacl-01-decision-closure</link>
       <guid isPermaLink="true">https://chongsheng20000.github.io/en/blog/tacl-01-decision-closure</guid>
       <pubDate>Sun, 12 Oct 2025 00:00:00 GMT</pubDate>
-      <description>AI governance discussions often revolve around familiar terms: transparency, fairness, explainability, accountability, auditing, compliance, and risk manag</description>
+      <description>Entry point to the T-ACL sequence. It asks who is entitled to close the matter after audit.</description>
     </item>
   </channel>
 </rss>

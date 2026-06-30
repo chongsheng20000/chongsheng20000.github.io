@@ -4,7 +4,7 @@
     <title>重生两万年 中文 RSS</title>
     <link>https://chongsheng20000.github.io/zh</link>
     <atom:link href="https://chongsheng20000.github.io/rss.zh.xml" rel="self" type="application/rss+xml" />
-    <description>重生两万年的个人博客，记录文章、阅读和长期项目。</description>
+    <description>重生两万年的研究型个人站，主要记录 AI治理、算法问责、技术治理、决策闭合、T-ACL 和研究写作。</description>
     <language>zh-CN</language>
     <lastBuildDate>Tue, 02 Jun 2026 00:00:00 GMT</lastBuildDate>
     <item>
@@ -12,91 +12,91 @@
       <link>https://chongsheng20000.github.io/zh/blog/tacl-11-ai-governance-as-closure-problem</link>
       <guid isPermaLink="true">https://chongsheng20000.github.io/zh/blog/tacl-11-ai-governance-as-closure-problem</guid>
       <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
-      <description>我现在越来越不愿意把 AI 治理理解成一个单纯的原则问题。</description>
+      <description>研究路线收束。AI 治理的问题最后落到一个窄问题：谁有资格关闭一个判断。</description>
     </item>
     <item>
       <title>如果真的部署 T-ACL，需要什么</title>
       <link>https://chongsheng20000.github.io/zh/blog/tacl-10-deploying-tacl</link>
       <guid isPermaLink="true">https://chongsheng20000.github.io/zh/blog/tacl-10-deploying-tacl</guid>
       <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
-      <description>T-ACL 如果停留在论文里，它看起来像一个形式系统。</description>
+      <description>部署 T-ACL 至少需要证书 schema、状态日志和最小 reasoner。形式系统必须落到工作流。</description>
     </item>
     <item>
       <title>T-ACL 和现有 AI 治理框架到底差在哪</title>
       <link>https://chongsheng20000.github.io/zh/blog/tacl-09-tacl-differences</link>
       <guid isPermaLink="true">https://chongsheng20000.github.io/zh/blog/tacl-09-tacl-differences</guid>
       <pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
-      <description>我最不想把 T-ACL 写成一种“替代品”。</description>
+      <description>T-ACL 不替代模型卡、审计或法律推理。它只处理它们之后的那一步：材料怎样变成闭合状态。</description>
     </item>
     <item>
       <title>T-ACL 不是什么：关于 AI 治理闭合框架的几个误解</title>
       <link>https://chongsheng20000.github.io/zh/blog/tacl-08-what-tacl-is-not</link>
       <guid isPermaLink="true">https://chongsheng20000.github.io/zh/blog/tacl-08-what-tacl-is-not</guid>
       <pubDate>Sat, 21 Mar 2026 00:00:00 GMT</pubDate>
-      <description>提出一个新框架，最容易发生的事不是被理解，而是被归类。</description>
+      <description>边界澄清。T-ACL 不替代审计、法律判断或监管决定。</description>
     </item>
     <item>
       <title>写作先把话说清</title>
       <link>https://chongsheng20000.github.io/zh/blog/research-writing-calibration</link>
       <guid isPermaLink="true">https://chongsheng20000.github.io/zh/blog/research-writing-calibration</guid>
       <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
-      <description>写作不是把句子写漂亮，而是先知道自己到底在说什么。</description>
+      <description>这篇只处理一件事：句子能否承受追问。漂亮不算完成，命题清楚才算开始。</description>
     </item>
     <item>
       <title>AI 治理真正缺的不是审计报告，而是“什么时候可以下结论”</title>
       <link>https://chongsheng20000.github.io/zh/blog/tacl-07-when-can-ai-governance-conclude</link>
       <guid isPermaLink="true">https://chongsheng20000.github.io/zh/blog/tacl-07-when-can-ai-governance-conclude</guid>
       <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
-      <description>AI 治理现在不缺文件。</description>
+      <description>T-ACL 主文。它处理审计、法律意见和风险评估之后的那一步：材料怎样支持闭合。</description>
     </item>
     <item>
       <title>短句、长信和一个人的网页</title>
       <link>https://chongsheng20000.github.io/zh/blog/social-theory-noise</link>
       <guid isPermaLink="true">https://chongsheng20000.github.io/zh/blog/social-theory-noise</guid>
       <pubDate>Wed, 18 Feb 2026 00:00:00 GMT</pubDate>
-      <description>关于个人博客为什么仍然值得保留。</description>
+      <description>个人站点的价值不在怀旧。它给版本、来源和公开身份留出固定位置。</description>
     </item>
     <item>
       <title>“风险可控”到底是什么意思？AI 治理需要一种状态语言</title>
       <link>https://chongsheng20000.github.io/zh/blog/tacl-06-risk-under-control-status-language</link>
       <guid isPermaLink="true">https://chongsheng20000.github.io/zh/blog/tacl-06-risk-under-control-status-language</guid>
       <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
-      <description>我在很多治理文件里都见过一句话：风险总体可控。</description>
+      <description>“风险可控”必须落到状态语言。否则它只是审批表里的宽泛结论。</description>
     </item>
     <item>
       <title>不是所有“不通过”都一样</title>
       <link>https://chongsheng20000.github.io/zh/blog/tacl-05-not-all-failures</link>
       <guid isPermaLink="true">https://chongsheng20000.github.io/zh/blog/tacl-05-not-all-failures</guid>
       <pubDate>Wed, 14 Jan 2026 00:00:00 GMT</pubDate>
-      <description>我觉得 AI 治理里有一个词用得太粗：“不通过”。</description>
+      <description>“不通过”至少可能指 C、F 或硬阻断。混在一起会让治理记录失去诊断功能。</description>
     </item>
     <item>
       <title>模型准不准，不是最后的问题</title>
       <link>https://chongsheng20000.github.io/zh/blog/tacl-04-accuracy-not-final-question</link>
       <guid isPermaLink="true">https://chongsheng20000.github.io/zh/blog/tacl-04-accuracy-not-final-question</guid>
       <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
-      <description>我现在越来越怀疑，AI 治理里最容易误导人的问题，恰恰是那个听起来最正常的问题：模型准不准？</description>
+      <description>MiDAS 和 SyRI 不是模型精度故事。系统进入公共权力之后，通知、申诉和权利保障会变成部署条件。</description>
     </item>
     <item>
       <title>AI 系统治理中最危险的三种错误：过早通过、过早拒绝、无限拖延</title>
       <link>https://chongsheng20000.github.io/zh/blog/tacl-03-three-governance-failures</link>
       <guid isPermaLink="true">https://chongsheng20000.github.io/zh/blog/tacl-03-three-governance-failures</guid>
       <pubDate>Thu, 27 Nov 2025 00:00:00 GMT</pubDate>
-      <description>AI 治理讨论里，人们很容易把注意力放在模型错误上。</description>
+      <description>过早通过、过早拒绝、无限拖延是三种不同失败。T-ACL 要先把它们分开。</description>
     </item>
     <item>
       <title>AI 审计报告越来越多，但谁来决定“够不够”？</title>
       <link>https://chongsheng20000.github.io/zh/blog/tacl-02-ai-audit-enough</link>
       <guid isPermaLink="true">https://chongsheng20000.github.io/zh/blog/tacl-02-ai-audit-enough</guid>
       <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
-      <description>现在，谈 AI 治理已经不能只说“没有审计”。</description>
+      <description>审计报告变多以后，缺口转移到阈值判断。谁来决定够不够，仍然没有固定位置。</description>
     </item>
     <item>
       <title>我为什么关注 AI 治理中的“决策闭合”问题</title>
       <link>https://chongsheng20000.github.io/zh/blog/tacl-01-decision-closure</link>
       <guid isPermaLink="true">https://chongsheng20000.github.io/zh/blog/tacl-01-decision-closure</guid>
       <pubDate>Sun, 12 Oct 2025 00:00:00 GMT</pubDate>
-      <description>AI 治理讨论里，我们经常听到几个熟悉的词：透明度、公平性、可解释性、问责、审计、合规、风险管理。</description>
+      <description>T-ACL 系列入口。它只提出一个问题：审计之后，谁有资格说事情已经结束？</description>
     </item>
   </channel>
 </rss>
