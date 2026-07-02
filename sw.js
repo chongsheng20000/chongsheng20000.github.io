@@ -1,25 +1,29 @@
-const CACHE_NAME = "judgment-archive-v1";
-const CORE = ["/", "/zh", "/en", "/manifest.webmanifest", "/icon.svg"];
+const LEGACY_CACHE_PREFIXES = ["judgment-archive", "chongsheng", "thought-archive"];
+
+async function clearLegacyCaches() {
+  if (!self.caches) return;
+  const keys = await caches.keys();
+  await Promise.all(
+    keys
+      .filter((key) => LEGACY_CACHE_PREFIXES.some((prefix) => key.startsWith(prefix)))
+      .map((key) => caches.delete(key))
+  );
+}
 
 self.addEventListener("install", (event) => {
-  event.waitUntil(caches.open(CACHE_NAME).then((cache) => cache.addAll(CORE)));
-  self.skipWaiting();
+  event.waitUntil(clearLegacyCaches().then(() => self.skipWaiting()));
 });
 
 self.addEventListener("activate", (event) => {
   event.waitUntil(
-    caches.keys().then((keys) => Promise.all(keys.filter((key) => key !== CACHE_NAME).map((key) => caches.delete(key))))
+    clearLegacyCaches()
+      .then(() => self.registration.unregister())
+      .then(() => self.clients.matchAll({ type: "window" }))
+      .then((clients) => clients.forEach((client) => client.navigate(client.url)))
+      .catch(() => undefined)
   );
-  self.clients.claim();
 });
 
-self.addEventListener("fetch", (event) => {
-  if (event.request.method !== "GET") return;
-  event.respondWith(
-    caches.match(event.request).then((cached) => cached || fetch(event.request).then((response) => {
-      const copy = response.clone();
-      caches.open(CACHE_NAME).then((cache) => cache.put(event.request, copy));
-      return response;
-    }).catch(() => caches.match("/zh")))
-  );
-});
+// Intentionally no fetch handler:
+// - HTML pages must never use cache-first.
+// - JS/CSS/chunk failures must never fall back to /zh.
